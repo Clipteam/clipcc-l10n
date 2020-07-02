@@ -3,6 +3,7 @@
 
 const https = require('https');
 const fs = require('fs');
+const path = require('path');
 const querystring = require('querystring');
 
 function post(url, args) {
@@ -15,6 +16,7 @@ function post(url, args) {
                 'Content-Type': 'application/x-www-form-urlencoded'
             }
         };
+        let time = 0;
         let req = https.request(new URL(url), opt, res => {
             res.on('data', data => {
                 datas += data;
@@ -22,6 +24,16 @@ function post(url, args) {
             res.on('end', () => {
                 resolve(JSON.parse(datas));
             });
+        }).on('error', err => {
+            time = time + 1;
+            if (time <= 3) {
+                console.log(`Error, reconnecting ${arg}: ${time} ...`);
+                req.write(arg);
+            }
+            else {
+                console.log(err);
+                reject(err);
+            }
         });
         req.write(arg);
     });
@@ -87,20 +99,24 @@ class POEditorV2 {
             data: data
         });
     }
-    export(id, language, type) { //opt
+    export(id, language, type, tags) { //opt
         return post('https://api.poeditor.com/v2/projects/export', {
             api_token: this.api_token,
             id: id,
             language: language,
-            type: type
+            type: type,
+            tags: tags
         })
     }
-    async exportToFile(id, language, type, path) {
-        const url = (await this.export(id, language, type)).result.url;
-        const file = fs.createWriteStream(path);
+    async exportToFile(id, language, type, tags, filePath) {
+        const url = (await this.export(id, language, type, tags)).result.url;
+        if (!fs.existsSync(path.dirname(filePath))) {
+            fs.mkdirSync(path.dirname(filePath), { recursive: true });
+        }
+        const file = fs.createWriteStream(filePath);
         https.get(url, res => {
             res.on('end', () => {
-                console.log('finish download');
+                console.log(`Exported to ${filePath}`);
             });
             file.on('finish', () => {
                 file.close();

@@ -10,7 +10,7 @@
   "author": "Clip Team",
   "license": "BSD-3-Clause",
   "scripts": {
-    "pull": "babel-node scripts/poe-pull ./editor/"
+    "pull": "babel-node scripts/poe-pull ./locale/"
   },
   "dependencies": {
     "@babel/cli": "^7.1.2",

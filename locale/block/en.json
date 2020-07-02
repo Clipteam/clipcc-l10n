@@ -268,6 +268,7 @@
     "NEW_PROCEDURE": "Make a Block",
     "PROCEDURE_ALREADY_EXISTS": "A procedure named \"%1\" already exists.",
     "PROCEDURE_DEFAULT_NAME": "block name",
+    "PROCEDURE_USED": "To delete a block definition, first remove all uses of the block",
     "NEW_LIST": "Make a List",
     "NEW_LIST_TITLE": "New list name:",
     "LIST_MODAL_TITLE": "New List",
@@ -280,17 +281,5 @@
     "NEW_BROADCAST_MESSAGE": "New message",
     "NEW_BROADCAST_MESSAGE_TITLE": "New message name:",
     "BROADCAST_MODAL_TITLE": "New Message",
-    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1",
-    "SENSING_MOUSEPRESSED": "mouse %1 pressed?",
-    "SENSING_MOUSEPRESSED_LEFT": "left",
-    "SENSING_MOUSEPRESSED_MIDDLE": "middle",
-    "SENSING_MOUSEPRESSED_RIGHT": "right",
-    "OPERATORS_POWER": "%1 ^ %2",
-    "OPERATORS_BITAND": "%1 & %2",
-    "OPERATORS_BITOR": "%1 | %2",
-    "OPERATORS_BITXOR": "%1 xor %2",
-    "OPERATORS_BITNOT": "~ %2",
-    "OPERATORS_GE": "%1 ≥ %2",
-    "OPERATORS_LE": "%1 ≤ %2",
-    "OPERATORS_NEQUALS": "%1 ≠ %2"
+    "DEFAULT_BROADCAST_MESSAGE_NAME": "message1"
 }

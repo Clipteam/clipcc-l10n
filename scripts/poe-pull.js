@@ -28,29 +28,24 @@ const api = new POEditorV2(process.env.POE_TOKEN);
 
 const PROJECT_ID = '322153';
 const OUTPUT_DIR = path.resolve(args[0]);
-const CONCURRENCY_LIMIT = 4;
+const CONCURRENCY_LIMIT = 1;
+let tags = ['gui', 'block', 'extensions'];
 
-const getLocaleData = (locale, callback) => {
-    let poeLocale = localeMap[locale] || locale;
-    api.exportToFile(PROJECT_ID, poeLocale, 'key_value_json', `${OUTPUT_DIR}/${locale}.json`).then(res => {
-        callback(null, {
-            locale: locale
+tags.forEach((tag) => {
+    async.mapLimit(Object.keys(locales), CONCURRENCY_LIMIT, (locale, callback) => {
+        let poeLocale = localeMap[locale] || locale;
+        api.exportToFile(PROJECT_ID, poeLocale, 'key_value_json', tag, `${OUTPUT_DIR}/${tag}/${locale}.json`).then(res => {
+            callback(null, {
+                locale: locale
+            });
+        }).catch(err => {
+            callback(err);
         });
-    }).catch(err => {
-        callback(err);
-    });
-};
-
-async.mapLimit(Object.keys(locales), CONCURRENCY_LIMIT, getLocaleData, function (err, values) {
-    if (err) {
-        console.error(err); // eslint-disable-line no-console
-        process.exit(1);
-    }
-    values.forEach(function (translation) {
-        /*const file = JSON.stringify(translation.translations, null, 4);
-        fs.writeFileSync(
-            `${OUTPUT_DIR}/${translation.locale}.json`,
-            file
-        );*/
+    }, (err, values) => {
+        if (err) {
+            console.error(err); // eslint-disable-line no-console
+            process.exit(1);
+        }
+        console.log(`[${tag}]${values.locale} finished.`);
     });
 });
