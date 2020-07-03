@@ -5,9 +5,6 @@
 /node_modules
 npm-*
 
-# generated locale files
-/locales
-/locale
-
 # generated build files
+/build
 /dist

@@ -21,7 +21,7 @@ module.exports = {
         }]
     },
     entry: {
-        l10n: './src/index.js'
+        'clipcc-l10n': './src/index.js'
     },
     output: {
         path: path.resolve(__dirname, 'dist'),

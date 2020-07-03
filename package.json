@@ -2,7 +2,7 @@
   "name": "clipcc-l10n",
   "version": "3.0.0-1",
   "description": "Localization library for ClipCC.",
-  "main": "src/index.js",
+  "main": "dist/clipcc-l10n.js",
   "repository": {
       "type": "git",
       "url": "git+ssh://git@github.com:clipteam/clipcc-l10n.git"
@@ -10,6 +10,9 @@
   "author": "Clip Team",
   "license": "BSD-3-Clause",
   "scripts": {
+    "build": "yarn run clean && yarn run build:data && webpack --progress --colors --bail",
+    "build:data": "babel-node scripts/build-data",
+    "clean": "rimraf ./dist && mkdirp dist",
     "pull": "babel-node scripts/poe-pull ./locale/"
   },
   "dependencies": {

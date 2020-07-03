@@ -17,9 +17,7 @@ if (!process.env.POE_TOKEN || args.length < 1) {
     process.exit(1);
 }
 
-import fs from 'fs';
 import path from 'path';
-import async from 'async';
 //import {POEditorV2} from 'poeditor-api';
 import {POEditorV2} from './poeditor';
 import locales, {localeMap} from '../src/supported-locales';
@@ -28,24 +26,16 @@ const api = new POEditorV2(process.env.POE_TOKEN);
 
 const PROJECT_ID = '322153';
 const OUTPUT_DIR = path.resolve(args[0]);
-const CONCURRENCY_LIMIT = 1;
-let tags = ['gui', 'block', 'extensions'];
+let tags = ['gui', 'block', 'extension'];
 
-tags.forEach((tag) => {
-    async.mapLimit(Object.keys(locales), CONCURRENCY_LIMIT, (locale, callback) => {
+tags.forEach(tag => {
+    Object.keys(locales).forEach(async locale => {
         let poeLocale = localeMap[locale] || locale;
-        api.exportToFile(PROJECT_ID, poeLocale, 'key_value_json', tag, `${OUTPUT_DIR}/${tag}/${locale}.json`).then(res => {
-            callback(null, {
-                locale: locale
-            });
-        }).catch(err => {
-            callback(err);
-        });
-    }, (err, values) => {
-        if (err) {
-            console.error(err); // eslint-disable-line no-console
-            process.exit(1);
+        try {
+            await api.exportToFile(PROJECT_ID, poeLocale, 'key_value_json', tag, `${OUTPUT_DIR}/${tag}/${locale}.json`);
         }
-        console.log(`[${tag}]${values.locale} finished.`);
+        catch (err) {
+            console.error(tag, poeLocale, err);
+        }
     });
 });
