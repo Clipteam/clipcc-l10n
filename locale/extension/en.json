@@ -211,5 +211,10 @@
     "wedo2.tiltDirection.right": "right",
     "wedo2.tiltDirection.up": "up",
     "wedo2.whenDistance": "when distance [OP] [REFERENCE]",
-    "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]"
+    "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]",
+    "gui.extension.HTTPIO.name": "",
+    "gui.extension.HTTPIO.description": "",
+    "httpio.setUA": "",
+    "httpio.setHeader": "",
+    "httpio.categoryName": ""
 }
