@@ -211,5 +211,17 @@
     "wedo2.tiltDirection.right": "右",
     "wedo2.tiltDirection.up": "上",
     "wedo2.whenDistance": "当距离[OP][REFERENCE]",
-    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜"
+    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜",
+    "gui.extension.HTTPIO.name": "网络交互",
+    "gui.extension.HTTPIO.description": "感受互联网的魅力!",
+    "httpio.setUA": "将 User-Agent 设置为[UA]",
+    "httpio.setHeader": "将 Header 设置为[HEADER]",
+    "httpio.categoryName": "网络交互",
+    "httpio.httpPost": "以带前缀[PREFIX]的变量post[URL]",
+    "libra.categoryName": "红名单",
+    "libra.isRedlistAvailable": "红名单服务可用吗？",
+    "libra.isInList": "[NAME]在红名单里吗?",
+    "libra.inListReason": "为什么[NAME]在红名单里?",
+    "gui.extension.redlist.name": "红名单",
+    "gui.extension.redlist.description": "版权维护协会红名单服务"
 }

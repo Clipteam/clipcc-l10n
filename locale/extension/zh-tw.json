@@ -211,5 +211,17 @@
     "wedo2.tiltDirection.right": "向右",
     "wedo2.tiltDirection.up": "向上",
     "wedo2.whenDistance": "當距離 [OP] [REFERENCE]",
-    "wedo2.whenTilted": "當傾斜 [TILT_DIRECTION_ANY]"
+    "wedo2.whenTilted": "當傾斜 [TILT_DIRECTION_ANY]",
+    "gui.extension.HTTPIO.name": "",
+    "gui.extension.HTTPIO.description": "",
+    "httpio.setUA": "",
+    "httpio.setHeader": "",
+    "httpio.categoryName": "",
+    "httpio.httpPost": "",
+    "libra.categoryName": "",
+    "libra.isRedlistAvailable": "",
+    "libra.isInList": "",
+    "libra.inListReason": "",
+    "gui.extension.redlist.name": "",
+    "gui.extension.redlist.description": ""
 }
