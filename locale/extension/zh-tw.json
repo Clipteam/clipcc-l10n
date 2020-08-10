@@ -1,4 +1,8 @@
 {
+    "HTTPIO Plugin": {
+        "gui.extension.HTTPIO.description": "感受網路的魅力！",
+        "gui.extension.HTTPIO.name": "網路交互"
+    },
     "boost.color.any": "任何顏色",
     "boost.color.black": "黑色",
     "boost.color.blue": "藍色",
@@ -57,6 +61,16 @@
     "gdxfor.whenForcePushedOrPulled": "當重力感測器[PUSH_PULL]",
     "gdxfor.whenGesture": "當 [GESTURE]",
     "gdxfor.whenTilted": "當傾斜 [TILT]",
+    "gui.extension.redlist.description": "GUI紅名單描述",
+    "gui.extension.redlist.name": "GUI紅名單名",
+    "httpio.categoryName": "分類名稱",
+    "httpio.httpPost": "發送信息到網站",
+    "httpio.setHeader": "設置 Header 為[HEADER]",
+    "httpio.setUA": "設置 User-Agent 為[UA]",
+    "libra.categoryName": "紅名單類名",
+    "libra.inListReason": "红名单条件",
+    "libra.isInList": "是否在紅名單內",
+    "libra.isRedlistAvailable": "紅名單是否可用",
     "makeymakey.downArrow": "向下",
     "makeymakey.downArrowShort": "向下",
     "makeymakey.leftArrow": "向左",
@@ -211,17 +225,5 @@
     "wedo2.tiltDirection.right": "向右",
     "wedo2.tiltDirection.up": "向上",
     "wedo2.whenDistance": "當距離 [OP] [REFERENCE]",
-    "wedo2.whenTilted": "當傾斜 [TILT_DIRECTION_ANY]",
-    "gui.extension.HTTPIO.name": "HTTP交互擴展名",
-    "gui.extension.HTTPIO.description": "HTTP交互描述",
-    "httpio.setUA": "設置用戶代理",
-    "httpio.setHeader": "設置頭部信息",
-    "httpio.categoryName": "分類名稱",
-    "httpio.httpPost": "發送信息到網站",
-    "libra.categoryName": "紅名單類名",
-    "libra.isRedlistAvailable": "紅名單是否可用",
-    "libra.isInList": "是否在紅名單內",
-    "libra.inListReason": "红名单条件",
-    "gui.extension.redlist.name": "GUI紅名單名",
-    "gui.extension.redlist.description": "GUI紅名單描述"
+    "wedo2.whenTilted": "當傾斜 [TILT_DIRECTION_ANY]"
 }
