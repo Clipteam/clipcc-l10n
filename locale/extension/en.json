@@ -1,14 +1,4 @@
 {
-    "Description for the 'JSON' extension": {
-        "gui.extension.clipcc.json.description": "Useful JSON extension."
-    },
-    "HTTPIO Plugin": {
-        "gui.extension.HTTPIO.description": "Feel the charm of the Internet!",
-        "gui.extension.HTTPIO.name": "HTTPIO"
-    },
-    "Name for the 'JSON' extension": {
-        "gui.extension.clipcc.json.name": "JSON"
-    },
     "boost.color.any": "any color",
     "boost.color.black": "black",
     "boost.color.blue": "blue",
@@ -67,16 +57,6 @@
     "gdxfor.whenForcePushedOrPulled": "when force sensor [PUSH_PULL]",
     "gdxfor.whenGesture": "when [GESTURE]",
     "gdxfor.whenTilted": "when tilted [TILT]",
-    "get value in json object by key": {
-        "clipcc.json.getValueByKey": "get [KEY] in [JSON]"
-    },
-    "http get": {
-        "httpio.httpGet": "get [URL]"
-    },
-    "httpio.categoryName": "HttpIO",
-    "httpio.httpPost": "post [URL] with prefix variable [PREFIX]",
-    "httpio.setHeader": "set header to [HEADER]",
-    "httpio.setUA": "set UA to [UA]",
     "makeymakey.downArrow": "down arrow",
     "makeymakey.downArrowShort": "down",
     "makeymakey.leftArrow": "left arrow",
@@ -177,9 +157,6 @@
     "pen.setShade": "set pen shade to [SHADE]",
     "pen.setSize": "set pen size to [SIZE]",
     "pen.stamp": "stamp",
-    "set value in json object by key": {
-        "clipcc.json.setValueByKey": "set [KEY] to [VALUE] in [JSON]"
-    },
     "speech.defaultWhenIHearValue": "let''s go",
     "speech.extensionName": "Speech to Text",
     "speech.listenAndWait": "listen and wait",
@@ -234,5 +211,22 @@
     "wedo2.tiltDirection.right": "right",
     "wedo2.tiltDirection.up": "up",
     "wedo2.whenDistance": "when distance [OP] [REFERENCE]",
-    "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]"
+    "wedo2.whenTilted": "when tilted [TILT_DIRECTION_ANY]",
+    "gui.extension.HTTPIO.name": "HTTPIO",
+    "gui.extension.HTTPIO.description": "Feel the charm of the Internet!",
+    "httpio.setUA": "set UA to [UA]",
+    "httpio.setHeader": "set header to [HEADER]",
+    "httpio.categoryName": "HttpIO",
+    "httpio.httpPost": "post [URL] with prefix variable [PREFIX]",
+    "libra.categoryName": "Libra Redlist",
+    "libra.isRedlistAvailable": "is redlist available?",
+    "libra.isInList": "is [NAME] in redlist?",
+    "libra.inListReason": "the reason why [NAME] is in readlist",
+    "gui.extension.redlist.name": "Libra Redlist",
+    "gui.extension.redlist.description": "The Libra redlist service provided by SCPO.",
+    "gui.extension.clipcc.json.name": "JSON",
+    "gui.extension.clipcc.json.description": "Useful JSON extension.",
+    "clipcc.json.getValueByKey": "get [KEY] in [JSON]",
+    "clipcc.json.setValueByKey": "set [KEY] to [VALUE] in [JSON]",
+    "httpio.httpGet": "get [URL]"
 }

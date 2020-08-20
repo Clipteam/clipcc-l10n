@@ -1,14 +1,4 @@
 {
-    "Description for the 'JSON' extension": {
-        "gui.extension.clipcc.json.description": "用途多多JSON扩展"
-    },
-    "HTTPIO Plugin": {
-        "gui.extension.HTTPIO.description": "感受互联网的魅力！",
-        "gui.extension.HTTPIO.name": "网络交互"
-    },
-    "Name for the 'JSON' extension": {
-        "gui.extension.clipcc.json.name": "JSON"
-    },
     "boost.color.any": "任何颜色",
     "boost.color.black": "黑色",
     "boost.color.blue": "蓝色",
@@ -67,22 +57,6 @@
     "gdxfor.whenForcePushedOrPulled": "当力传感器被[PUSH_PULL]",
     "gdxfor.whenGesture": "当传感器[GESTURE]",
     "gdxfor.whenTilted": "当向[TILT]倾斜",
-    "get value in json object by key": {
-        "clipcc.json.getValueByKey": "从[JSON]中获得[KEY]"
-    },
-    "gui.extension.redlist.description": "版权维护协会红名单服务",
-    "gui.extension.redlist.name": "红名单",
-    "http get": {
-        "httpio.httpGet": "向[URL]发送get请求"
-    },
-    "httpio.categoryName": "网络交互",
-    "httpio.httpPost": "以带前缀[PREFIX]的变量post[URL]",
-    "httpio.setHeader": "将 Header 设置为[HEADER]",
-    "httpio.setUA": "将 User-Agent 设置为[UA]",
-    "libra.categoryName": "红名单",
-    "libra.inListReason": "为什么[NAME]在红名单里?",
-    "libra.isInList": "[NAME]在红名单里吗?",
-    "libra.isRedlistAvailable": "红名单服务可用吗？",
     "makeymakey.downArrow": "↓",
     "makeymakey.downArrowShort": "下",
     "makeymakey.leftArrow": "←",
@@ -183,9 +157,6 @@
     "pen.setShade": "将笔的亮度设为[SHADE]",
     "pen.setSize": "将笔的粗细设为[SIZE]",
     "pen.stamp": "图章",
-    "set value in json object by key": {
-        "clipcc.json.setValueByKey": "将[JSON]中的[KEY]赋值给[VALUE]"
-    },
     "speech.defaultWhenIHearValue": "开始",
     "speech.extensionName": "语音识别",
     "speech.listenAndWait": "听候语音输入",
@@ -240,5 +211,22 @@
     "wedo2.tiltDirection.right": "右",
     "wedo2.tiltDirection.up": "上",
     "wedo2.whenDistance": "当距离[OP][REFERENCE]",
-    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜"
+    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜",
+    "gui.extension.HTTPIO.name": "网络交互",
+    "gui.extension.HTTPIO.description": "感受互联网的魅力！",
+    "httpio.setUA": "将 User-Agent 设置为[UA]",
+    "httpio.setHeader": "将 Header 设置为[HEADER]",
+    "httpio.categoryName": "网络交互",
+    "httpio.httpPost": "将前缀为[PREFIX]的变量post至[URL]",
+    "libra.categoryName": "红名单",
+    "libra.isRedlistAvailable": "红名单服务可用吗？",
+    "libra.isInList": "[NAME]在红名单里吗?",
+    "libra.inListReason": "为什么[NAME]在红名单里?",
+    "gui.extension.redlist.name": "红名单",
+    "gui.extension.redlist.description": "版权维护协会红名单服务",
+    "gui.extension.clipcc.json.name": "JSON",
+    "gui.extension.clipcc.json.description": "用途多多的JSON扩展",
+    "clipcc.json.getValueByKey": "从[JSON]中获得[KEY]",
+    "clipcc.json.setValueByKey": "将[JSON]中的[KEY]赋值给[VALUE]",
+    "httpio.httpGet": "向[URL]发送get请求"
 }
