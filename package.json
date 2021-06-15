@@ -7,6 +7,10 @@
     "type": "git",
     "url": "git+ssh://git@github.com:clipteam/clipcc-l10n.git"
   },
+  "bin": {
+    "build-i18n-src": "./scripts/build-i18n-src.js",
+    "poe-push": "./scripts/poe-push.js"
+  },
   "author": "Clip Team",
   "license": "BSD-3-Clause",
   "scripts": {
@@ -19,6 +23,7 @@
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
     "babel-plugin-react-intl": "^3.0.1",
+    "form-data": "^4.0.0",
     "poeditor-api": "^1.0.0"
   },
   "devDependencies": {

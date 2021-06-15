@@ -5,6 +5,45 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 const querystring = require('querystring');
+const FormData = require('form-data');
+
+function postForm(url, args, files) {
+    return new Promise((resolve, reject) => {
+        let arg = querystring.stringify(args);
+        let datas = '';
+        let form = new FormData();
+        for (const key in args) {
+            form.append(key, args[key]);
+        }
+        for (const file in files) {
+            form.append(file, files[file])
+        }
+        let opt = {
+            method: 'POST',
+            headers: form.getHeaders()
+        };
+        let time = 0;
+        let req = https.request(new URL(url), opt, res => {
+            res.on('data', data => {
+                datas += data;
+            });
+            res.on('end', () => {
+                resolve(JSON.parse(datas));
+            });
+        }).on('error', err => {
+            time = time + 1;
+            if (time <= 3) {
+                console.log(`Error, reconnecting ${arg}: ${time} ...`);
+                req.write(arg);
+            }
+            else {
+                console.log(err);
+                reject(err);
+            }
+        });
+        form.pipe(req);
+    });
+}
 
 function post(url, args) {
     return new Promise((resolve, reject) => {
@@ -39,8 +78,8 @@ function post(url, args) {
     });
 }
 
-// API v2
-class POEditorV2 {
+// API
+class POEditorAPI {
     constructor(api_token) {
         this.api_token = api_token;
     }
@@ -79,17 +118,18 @@ class POEditorV2 {
         });
     }
     upload(id, updating, file, language, overwrite, sync_terms, tags, read_from_source, fuzzy_trigger) {
-        return post('https://api.poeditor.com/v2/projects/upload', {
+        return postForm('https://api.poeditor.com/v2/projects/upload', {
             api_token: this.api_token,
             id: id,
             updating: updating,
-            file: file,
             language: language,
             overwrite: overwrite,
             sync_terms: sync_terms,
             tags: tags,
             read_from_source: read_from_source,
             fuzzy_trigger: fuzzy_trigger
+        }, {
+            file: fs.createReadStream(file)
         });
     }
     syncTerms(id, data) {
@@ -128,4 +168,4 @@ class POEditorV2 {
     }
 }
 
-module.exports = { POEditorV2 };
+module.exports = { POEditorAPI };

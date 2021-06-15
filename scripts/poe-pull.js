@@ -12,17 +12,16 @@ const usage = `
 // Fail immediately if the POE_TOKEN is not defined
 if (!process.env.POE_TOKEN || args.length < 1) {
     process.stdout.write(args.length.toString());
-    process.stdout.write(process.env.POE_TOKEN.toString());
     process.stdout.write(usage);
     process.exit(1);
 }
 
 import path from 'path';
-//import {POEditorV2} from 'poeditor-api';
-import {POEditorV2} from './poeditor';
+//import { POEditorAPI } from 'poeditor-api';
+import { POEditorAPI } from './poeditor';
 import locales, {localeMap} from '../src/supported-locales';
 
-const api = new POEditorV2(process.env.POE_TOKEN);
+const api = new POEditorAPI(process.env.POE_TOKEN);
 
 const PROJECT_ID = '322153';
 const OUTPUT_DIR = path.resolve(args[0]);
