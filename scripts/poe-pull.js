@@ -25,7 +25,7 @@ const api = new POEditorAPI(process.env.POE_TOKEN);
 
 const PROJECT_ID = '322153';
 const OUTPUT_DIR = path.resolve(args[0]);
-let tags = ['gui', 'block', 'extension'];
+let tags = ['gui', 'block', 'extension', 'paint'];
 
 tags.forEach(tag => {
     Object.keys(locales).forEach(async locale => {

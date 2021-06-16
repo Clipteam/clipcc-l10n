@@ -20,6 +20,7 @@ if (!args.length) {
 }
 
 const LANG_DIR = args.shift();
+const TAG = args.shift();
 
 // Aggregates the default messages that were extracted from the example app's
 // React components via the React Intl Babel plugin. An error will be thrown if
@@ -44,4 +45,4 @@ let defaultMessages = glob.sync(MESSAGES_PATTERN)
     }, {});
 
 mkdirp.sync(LANG_DIR);
-fs.writeFileSync(path.join(LANG_DIR, 'en.json'), JSON.stringify(defaultMessages, null, 2));
+fs.writeFileSync(path.join(LANG_DIR, TAG + '.json'), JSON.stringify(defaultMessages, null, 2));
