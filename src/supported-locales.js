@@ -66,7 +66,8 @@ const locales = {
     'tr': {name: 'Türkçe'},
     'uk': {name: 'Українська'},*/
     'zh-cn': {name: '简体中文'},
-    'zh-tw': {name: '繁體中文'}
+    'zh-tw': {name: '繁體中文'},
+    'zh-chuunibyo': {name: '中二模式'}
 };
 
 const customLocales = {
@@ -90,6 +91,10 @@ const customLocales = {
     'zh-tw': {
         locale: 'zh-tw',
         parentLocale: 'zh'
+    },
+    'zh-chuunibyo': {
+        locale: 'zh-chuunibyo',
+        parentLocale: 'zh'
     }
 };
 
@@ -99,7 +104,8 @@ const localeMap = {
     // ja-Hira: no map - it's 'ja-Hira' on transifex
     'pt-br': 'pt_BR',*/
     'zh-cn': 'zh-Hans',
-    'zh-tw': 'zh-Hant'
+    'zh-tw': 'zh-Hant',
+    'zh-chuunibyo': 'zh-Chuunibyo'
 };
 
 // list of RTL locales supported, and a function to check whether a locale is RTL
