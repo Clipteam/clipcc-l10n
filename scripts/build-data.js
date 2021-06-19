@@ -74,7 +74,7 @@ let blockData =
 fs.writeFileSync(MSGS_DIR + 'blocks-msgs.js', blockData);
 
 // generate messages for gui components - all files are plain key-value JSON
-let components = ['gui', 'extension'];
+let components = ['gui', 'extension', 'paint'];
 let editorMsgs = {};
 components.forEach((component) => {
     let messages = combineJson(component);
