@@ -23,3 +23,4 @@ jobs:
           commit-message: Pull translation from remote.
           files: locale/
           name: clipbot
+          email: cuizhihui030925@gmail.com
