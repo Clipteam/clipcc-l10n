@@ -1,0 +1,25 @@
+name: Pull Translation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 14
+      - run: yarn
+      - run: yarn run pull
+        env:
+          POE_TOKEN: ${{ secrets.POE_TOKEN }}
+      - name: Push Commit
+        uses: github-actions-x/commit@v2.8
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+          push-branch: master
+          commit-message: Pull translation from remote.
+          files: locale/
+          name: clipbot
