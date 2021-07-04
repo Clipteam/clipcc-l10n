@@ -54,7 +54,7 @@
     "boost.whenColor": "当看到[COLOR]积木",
     "boost.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜",
     "clipcc.json.getValueByKey": "从 [JSON] 获取键 [KEY]",
-    "clipcc.json.setValueByKey": "设置 [JSON] 中键 [KEY] 的值为 [JSON]",
+    "clipcc.json.setValueByKey": "设置 [JSON] 中键 [KEY] 的值为 [VALUE]",
     "ev3.beepNote": "鸣笛[NOTE][TIME]秒",
     "ev3.buttonPressed": "按下按钮[PORT]？",
     "ev3.getBrightness": "亮度",
