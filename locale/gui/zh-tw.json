@@ -501,5 +501,6 @@
     "gui.sharedMessages.pop": "pop",
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
-    "gui.gui.defaultProjectTitle": "Scratch 專案"
+    "gui.gui.defaultProjectTitle": "Scratch 專案",
+    "gui.customProcedures.globalProcedure": "Global procedure"
 }
