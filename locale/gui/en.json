@@ -502,5 +502,10 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customProcedures.globalProcedure": "Global procedure"
+    "gui.customProcedures.globalProcedure": "Global procedure",
+    "gui.menuBar.history": "History",
+    "gui.menuBar.signInAndUp": "Sign in or up",
+    "gui.menuBar.createNew": "Create new",
+    "gui.notfoundMessage.label": "Oops! This project is not found.",
+    "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author"
 }

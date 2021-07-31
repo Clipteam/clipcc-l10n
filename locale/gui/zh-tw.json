@@ -502,5 +502,10 @@
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
     "gui.gui.defaultProjectTitle": "Scratch 專案",
-    "gui.customProcedures.globalProcedure": "Global procedure"
+    "gui.customProcedures.globalProcedure": "Global procedure",
+    "gui.menuBar.history": "History",
+    "gui.menuBar.signInAndUp": "Sign in or up",
+    "gui.menuBar.createNew": "Create new",
+    "gui.notfoundMessage.label": "Oops! This project is not found.",
+    "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author"
 }

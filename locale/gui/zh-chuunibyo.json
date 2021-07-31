@@ -502,5 +502,10 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前魔法世界中尚未拯救的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.gui.defaultProjectTitle": "蜜雪冰城",
-    "gui.customProcedures.globalProcedure": "公开自家心法"
+    "gui.customProcedures.globalProcedure": "公开自家心法",
+    "gui.menuBar.history": "History",
+    "gui.menuBar.signInAndUp": "Sign in or up",
+    "gui.menuBar.createNew": "Create new",
+    "gui.notfoundMessage.label": "Oops! This project is not found.",
+    "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author"
 }
