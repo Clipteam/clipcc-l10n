@@ -503,9 +503,9 @@
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
     "gui.gui.defaultProjectTitle": "蜜雪冰城",
     "gui.customProcedures.globalProcedure": "公开自家心法",
-    "gui.menuBar.history": "History",
-    "gui.menuBar.signInAndUp": "Sign in or up",
-    "gui.menuBar.createNew": "Create new",
-    "gui.notfoundMessage.label": "Oops! This project is not found.",
-    "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author"
+    "gui.menuBar.history": "史记",
+    "gui.menuBar.signInAndUp": "登陆或注册",
+    "gui.menuBar.createNew": "开天辟地",
+    "gui.notfoundMessage.label": "w(ﾟДﾟ)w作品不见了！",
+    "gui.notfoundMessage.description": "w(ﾟДﾟ)w作品不存在！"
 }
