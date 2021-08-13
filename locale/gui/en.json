@@ -507,5 +507,7 @@
     "gui.menuBar.signInAndUp": "Sign in or up",
     "gui.menuBar.createNew": "Create new",
     "gui.notfoundMessage.label": "Oops! This project is not found.",
-    "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author"
+    "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author",
+    "gui.settingsModal.fps.label": "FPS",
+    "gui.projectLoader.loadError2": "The project file that was selected failed to load."
 }

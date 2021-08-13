@@ -507,5 +507,7 @@
     "gui.menuBar.signInAndUp": "登录或注册",
     "gui.menuBar.createNew": "创建一个新作品",
     "gui.notfoundMessage.label": "Oops！这个作品不存在！",
-    "gui.notfoundMessage.description": "我们十分抱歉，但看上去这个作品并不存在或者被作者设定为私有项目了。"
+    "gui.notfoundMessage.description": "我们十分抱歉，但看上去这个作品并不存在或者被作者设定为私有项目了。",
+    "gui.settingsModal.fps.label": "帧率",
+    "gui.projectLoader.loadError2": "加载作品文件失败。"
 }
