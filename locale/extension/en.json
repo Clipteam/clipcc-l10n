@@ -282,5 +282,7 @@
     "pen.setPrintFontColor": "set print font color to [COLOR]",
     "pen.setPrintFontItalic": "set print font italic to [BOOLEANMENU]",
     "pen.setPrintFontSize": "set print font size to [SIZE]",
-    "pen.setPrintFontUnderline": "set print font underline to [BOOLEANMENU]"
+    "pen.setPrintFontUnderline": "set print font underline to [BOOLEANMENU]",
+    "gui.extension.clipcc.json.name": "JSON",
+    "gui.extension.clipcc.json.description": "Useful JSON extension."
 }

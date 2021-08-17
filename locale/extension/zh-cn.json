@@ -282,5 +282,7 @@
     "pen.setPrintFontColor": "设置打印颜色为 [COLOR]",
     "pen.setPrintFontItalic": "设置打印斜体状态为 [BOOLEANMENU]",
     "pen.setPrintFontSize": "设置打印字体大小为 [SIZE]",
-    "pen.setPrintFontUnderline": "设置打印下划线状态为 [BOOLEANMENU]"
+    "pen.setPrintFontUnderline": "设置打印下划线状态为 [BOOLEANMENU]",
+    "gui.extension.clipcc.json.name": "JSON",
+    "gui.extension.clipcc.json.description": "用途多多的JSON扩展。"
 }

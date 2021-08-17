@@ -509,5 +509,20 @@
     "gui.notfoundMessage.label": "Oops！这个作品不存在！",
     "gui.notfoundMessage.description": "我们十分抱歉，但看上去这个作品并不存在或者被作者设定为私有项目了。",
     "gui.settingsModal.fps.label": "帧率",
-    "gui.projectLoader.loadError2": "加载作品文件失败。"
+    "gui.projectLoader.loadError2": "加载作品文件失败。",
+    "gui.extensionModal.extensionModalTitle": "扩展设置",
+    "gui.extensionModal.extensionId": "扩展ID",
+    "gui.extensionModal.required": "前置扩展",
+    "gui.extensionModal.upload": "上传",
+    "gui.library.uploadButton": "上传",
+    "gui.menuBar.extension": "扩展",
+    "gui.messageBoxModal.confirm": "确认",
+    "gui.messageBoxModal.cancel": "取消",
+    "gui.messageBoxModal.giveup": "放弃",
+    "gui.extensionLibrary.extensionManagement": "扩展管理",
+    "gui.extensionLibrary.confirmTitle": "确认加载这些扩展",
+    "gui.extensionLibrary.confirmContent1": "下列扩展将被加载：",
+    "gui.extensionLibrary.confirmContent2": "以下依赖将被加载：",
+    "gui.extensionLibrary.confirmContent3": "以下扩展将被移除：",
+    "gui.extensionLibrary.confirmContent4": "下列依赖将被移除："
 }

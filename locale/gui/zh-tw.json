@@ -509,5 +509,20 @@
     "gui.notfoundMessage.label": "Oops! This project is not found.",
     "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author",
     "gui.settingsModal.fps.label": "FPS",
-    "gui.projectLoader.loadError2": "The project file that was selected failed to load."
+    "gui.projectLoader.loadError2": "The project file that was selected failed to load.",
+    "gui.extensionModal.extensionModalTitle": "Extension Settings",
+    "gui.extensionModal.extensionId": "Extension ID",
+    "gui.extensionModal.required": "Required",
+    "gui.extensionModal.upload": "Upload",
+    "gui.library.uploadButton": "Upload",
+    "gui.menuBar.extension": "Extension",
+    "gui.messageBoxModal.confirm": "Confirm",
+    "gui.messageBoxModal.cancel": "Cancel",
+    "gui.messageBoxModal.giveup": "Give Up",
+    "gui.extensionLibrary.extensionManagement": "Extension Management",
+    "gui.extensionLibrary.confirmTitle": "Confirm to Add Extensions",
+    "gui.extensionLibrary.confirmContent1": "The following extensions will be added:",
+    "gui.extensionLibrary.confirmContent2": "The following dependencies will be added:",
+    "gui.extensionLibrary.confirmContent3": "The following extensions will be removed:",
+    "gui.extensionLibrary.confirmContent4": "The following dependencies will be removed:"
 }
