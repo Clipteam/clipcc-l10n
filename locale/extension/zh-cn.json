@@ -275,7 +275,7 @@
     "clipblocks.valueOfVariable": "变量 [NAME] 的值",
     "pen.booleanMenu.false": "假",
     "pen.booleanMenu.true": "真",
-    "pen.drawRect": "使用颜色 [COLOR] 在 x:[X] y:[Y] 处画一个宽为 [WIDTH] 高为 [HEIGHT] 的正方形",
+    "pen.drawRect": "使用颜色 [COLOR] 在 x:[X] y:[Y] 处画一个宽为 [WIDTH] 高为 [HEIGHT] 的矩形",
     "pen.printText": "在 x: [X] y:[Y] 处打印文字 [TEXT]",
     "pen.setPrintFont": "设置打印字体为 [FONT]",
     "pen.setPrintFontBold": "设置打印粗体状态为 [BOOLEANMENU]",
