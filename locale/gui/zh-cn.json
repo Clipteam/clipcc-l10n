@@ -524,5 +524,9 @@
     "gui.extensionLibrary.confirmContent1": "下列扩展将被加载：",
     "gui.extensionLibrary.confirmContent2": "以下依赖将被加载：",
     "gui.extensionLibrary.confirmContent3": "以下扩展将被移除：",
-    "gui.extensionLibrary.confirmContent4": "下列依赖将被移除："
+    "gui.extensionLibrary.confirmContent4": "下列依赖将被移除：",
+    "gui.settingsModal.darkmode.label": "亮暗风格",
+    "gui.settingsModal.darkmode.system": "跟随系统",
+    "gui.settingsModal.darkmode.dark": "暗色",
+    "gui.settingsModal.darkmode.light": "亮色"
 }

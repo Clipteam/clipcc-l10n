@@ -524,5 +524,9 @@
     "gui.extensionLibrary.confirmContent1": "The following extensions will be added:",
     "gui.extensionLibrary.confirmContent2": "The following dependencies will be added:",
     "gui.extensionLibrary.confirmContent3": "The following extensions will be removed:",
-    "gui.extensionLibrary.confirmContent4": "The following dependencies will be removed:"
+    "gui.extensionLibrary.confirmContent4": "The following dependencies will be removed:",
+    "gui.settingsModal.darkmode.label": "Dark mode",
+    "gui.settingsModal.darkmode.system": "System",
+    "gui.settingsModal.darkmode.dark": "Dark",
+    "gui.settingsModal.darkmode.light": "Light"
 }
