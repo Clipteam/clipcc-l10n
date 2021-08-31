@@ -302,5 +302,12 @@
     "NEW_BROADCAST_MESSAGE_TITLE": "New message name:",
     "BROADCAST_MODAL_TITLE": "New Message",
     "DEFAULT_BROADCAST_MESSAGE_NAME": "message1",
-    "SENSING_CLIPCC_VERSION": "ClipCC version"
+    "SENSING_CLIPCC_VERSION": "ClipCC version",
+    "@metadata": {
+        "author": "Ellen Spertus <ellen.spertus@gmail.com>",
+        "lastupdated": "2021-08-16 08:53:14.814884",
+        "locale": "en",
+        "messagedocumentation": "qqq"
+    },
+    "OPERATORS_INDEXOF": "position %1 of %2 contain %3"
 }

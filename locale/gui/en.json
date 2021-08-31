@@ -528,5 +528,7 @@
     "gui.settingsModal.darkmode.label": "Dark mode",
     "gui.settingsModal.darkmode.system": "System",
     "gui.settingsModal.darkmode.dark": "Dark",
-    "gui.settingsModal.darkmode.light": "Light"
+    "gui.settingsModal.darkmode.light": "Light",
+    "gui.aboutModal.contributorModalTitle": "Contributor list",
+    "gui.menuBar.contributor": "Contributor List"
 }

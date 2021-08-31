@@ -528,5 +528,7 @@
     "gui.settingsModal.darkmode.label": "亮暗風格",
     "gui.settingsModal.darkmode.system": "跟隨系統",
     "gui.settingsModal.darkmode.dark": "暗色",
-    "gui.settingsModal.darkmode.light": "亮色"
+    "gui.settingsModal.darkmode.light": "亮色",
+    "gui.aboutModal.contributorModalTitle": "Contributor list",
+    "gui.menuBar.contributor": "Contributor List"
 }

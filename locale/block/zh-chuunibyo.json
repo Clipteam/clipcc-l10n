@@ -302,5 +302,12 @@
     "NEW_BROADCAST_MESSAGE_TITLE": "新消息的名称：",
     "BROADCAST_MODAL_TITLE": "新消息",
     "DEFAULT_BROADCAST_MESSAGE_NAME": "消息1",
-    "SENSING_CLIPCC_VERSION": "纪年"
+    "SENSING_CLIPCC_VERSION": "纪年",
+    "@metadata": {
+        "author": "Ellen Spertus <ellen.spertus@gmail.com>",
+        "lastupdated": "2021-08-16 08:53:14.814884",
+        "locale": "en",
+        "messagedocumentation": "qqq"
+    },
+    "OPERATORS_INDEXOF": "position %1 of %2 contain %3"
 }

@@ -528,5 +528,7 @@
     "gui.settingsModal.darkmode.label": "黑化？",
     "gui.settingsModal.darkmode.system": "视情况而定",
     "gui.settingsModal.darkmode.dark": "黑化！",
-    "gui.settingsModal.darkmode.light": "白化！"
+    "gui.settingsModal.darkmode.light": "白化！",
+    "gui.aboutModal.contributorModalTitle": "Contributor list",
+    "gui.menuBar.contributor": "Contributor List"
 }
