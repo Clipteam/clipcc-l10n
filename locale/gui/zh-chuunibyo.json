@@ -59,7 +59,7 @@
     "gui.connection.scanning.noPeripheralsFound": "没有发现任何魔杖",
     "gui.connection.scanning.instructions": "选择上面列出的魔杖",
     "gui.connection.search": "光亮如新！！",
-    "gui.connection.unavailable.installscratchlink": "确保Scratch Link哥哥已被安装且正在施法",
+    "gui.connection.unavailable.installscratchlink": "确保Scratch Link哥哥已被调教且正在施法",
     "gui.connection.unavailable.enablebluetooth": "请检查蓝精灵是否有牙齿",
     "gui.connection.unavailable.tryagainbutton": "再试试吧！",
     "gui.connection.unavailable.helpbutton": "救命",
@@ -486,7 +486,7 @@
     "gui.opcodeLabels.tempo": "演奏速度",
     "gui.opcodeLabels.answer": "陛下的回应",
     "gui.opcodeLabels.loudness": "吵闹的程度",
-    "gui.opcodeLabels.username": "用户名",
+    "gui.opcodeLabels.username": "尊姓大名",
     "gui.opcodeLabels.year": "年",
     "gui.opcodeLabels.month": "月",
     "gui.opcodeLabels.date": "日",
@@ -529,6 +529,11 @@
     "gui.settingsModal.darkmode.system": "视情况而定",
     "gui.settingsModal.darkmode.dark": "黑化！",
     "gui.settingsModal.darkmode.light": "白化！",
-    "gui.aboutModal.contributorModalTitle": "Contributor list",
-    "gui.menuBar.contributor": "Contributor List"
+    "gui.aboutModal.contributorModalTitle": "勇者列榜",
+    "gui.menuBar.contributor": "勇者列榜",
+    "gui.settingsModal.blur.label": "微软模拟近视2020",
+    "gui.settingsModal.blur.enabled": "好！",
+    "gui.settingsModal.blur.disabled": "不好！",
+    "gui.settingsModal.appearance": "好康的",
+    "gui.settingsModal.player": "播放泣"
 }

@@ -309,5 +309,5 @@
         "locale": "en",
         "messagedocumentation": "qqq"
     },
-    "OPERATORS_INDEXOF": "position %1 of %2 contain %3"
+    "OPERATORS_INDEXOF": "子串 %3 在 %2 中第 %1 次出现的位置"
 }

@@ -530,5 +530,10 @@
     "gui.settingsModal.darkmode.dark": "Dark",
     "gui.settingsModal.darkmode.light": "Light",
     "gui.aboutModal.contributorModalTitle": "Contributor list",
-    "gui.menuBar.contributor": "Contributor List"
+    "gui.menuBar.contributor": "Contributor List",
+    "gui.settingsModal.blur.label": "Blur Effect",
+    "gui.settingsModal.blur.enabled": "Enabled",
+    "gui.settingsModal.blur.disabled": "Disabled",
+    "gui.settingsModal.appearance": "Appearance",
+    "gui.settingsModal.player": "Player"
 }

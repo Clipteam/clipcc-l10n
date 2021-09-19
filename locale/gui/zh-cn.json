@@ -530,5 +530,10 @@
     "gui.settingsModal.darkmode.dark": "暗色",
     "gui.settingsModal.darkmode.light": "亮色",
     "gui.aboutModal.contributorModalTitle": "贡献者名单",
-    "gui.menuBar.contributor": "贡献者名单"
+    "gui.menuBar.contributor": "贡献者名单",
+    "gui.settingsModal.blur.label": "磨砂效果",
+    "gui.settingsModal.blur.enabled": "启用",
+    "gui.settingsModal.blur.disabled": "禁用",
+    "gui.settingsModal.appearance": "视觉",
+    "gui.settingsModal.player": "播放器"
 }
