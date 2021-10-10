@@ -535,5 +535,11 @@
     "gui.settingsModal.blur.enabled": "启用",
     "gui.settingsModal.blur.disabled": "禁用",
     "gui.settingsModal.appearance": "视觉",
-    "gui.settingsModal.player": "播放器"
+    "gui.settingsModal.player": "播放器",
+    "gui.settingsModal.compatibility.label": "未知模块处理逻辑",
+    "gui.settingsModal.compatibility.donotload": "不加载",
+    "gui.settingsModal.compatibility.convert": "转换为自定义模块",
+    "gui.settingsModal.compatibility.delete": "删除它们",
+    "gui.settingsModal.compression.label": "作品压缩率",
+    "gui.settingsModal.project": "作品"
 }

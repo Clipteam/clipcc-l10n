@@ -535,5 +535,11 @@
     "gui.settingsModal.blur.enabled": "好！",
     "gui.settingsModal.blur.disabled": "不好！",
     "gui.settingsModal.appearance": "好康的",
-    "gui.settingsModal.player": "播放泣"
+    "gui.settingsModal.player": "播放泣",
+    "gui.settingsModal.compatibility.label": "Handling unknown blocks",
+    "gui.settingsModal.compatibility.donotload": "Don't load",
+    "gui.settingsModal.compatibility.convert": "Convert to procedures",
+    "gui.settingsModal.compatibility.delete": "Delete them",
+    "gui.settingsModal.compression.label": "Compression level",
+    "gui.settingsModal.project": "Project"
 }
