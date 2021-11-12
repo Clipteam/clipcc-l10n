@@ -541,5 +541,9 @@
     "gui.settingsModal.compatibility.convert": "转换为自定义模块",
     "gui.settingsModal.compatibility.delete": "删除它们",
     "gui.settingsModal.compression.label": "作品压缩率",
-    "gui.settingsModal.project": "作品"
+    "gui.settingsModal.project": "作品",
+    "gui.settingsModal.compiler.label": "编译器",
+    "gui.settingsModal.indev.label": "此功能仍处于早期开发阶段，可能会破坏编辑器的使用体验。你确定要打开它吗？",
+    "gui.settingsModal.compiler.enabled": "启用",
+    "gui.settingsModal.compiler.disabled": "禁用"
 }
