@@ -545,5 +545,6 @@
     "gui.settingsModal.compiler.label": "编译器",
     "gui.settingsModal.indev.label": "此功能仍处于早期开发阶段，可能会破坏编辑器的使用体验。你确定要打开它吗？",
     "gui.settingsModal.compiler.enabled": "启用",
-    "gui.settingsModal.compiler.disabled": "禁用"
+    "gui.settingsModal.compiler.disabled": "禁用",
+    "gui.menuBar.saveToOriginalFile": "保存至源文件"
 }

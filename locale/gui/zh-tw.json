@@ -542,8 +542,9 @@
     "gui.settingsModal.compatibility.delete": "刪除它們",
     "gui.settingsModal.compression.label": "壓縮程度",
     "gui.settingsModal.project": "項目",
-    "gui.settingsModal.compiler.label": "Compiler",
-    "gui.settingsModal.indev.label": "This feature is still in the early stages of development, and it may disrupt the editor experience. Are you sure you want to open it anyway?",
-    "gui.settingsModal.compiler.enabled": "Enabled",
-    "gui.settingsModal.compiler.disabled": "Disabled"
+    "gui.settingsModal.compiler.label": "編譯器",
+    "gui.settingsModal.indev.label": "此功能仍處於開發的早期階段，可能會擾亂編輯器體驗。 您確定要打開它嗎？",
+    "gui.settingsModal.compiler.enabled": "啟用",
+    "gui.settingsModal.compiler.disabled": "關閉",
+    "gui.menuBar.saveToOriginalFile": "Save to original file"
 }

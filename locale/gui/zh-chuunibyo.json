@@ -545,5 +545,6 @@
     "gui.settingsModal.compiler.label": "Compiler",
     "gui.settingsModal.indev.label": "This feature is still in the early stages of development, and it may disrupt the editor experience. Are you sure you want to open it anyway?",
     "gui.settingsModal.compiler.enabled": "Enabled",
-    "gui.settingsModal.compiler.disabled": "Disabled"
+    "gui.settingsModal.compiler.disabled": "Disabled",
+    "gui.menuBar.saveToOriginalFile": "Save to original file"
 }
