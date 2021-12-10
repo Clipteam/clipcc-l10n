@@ -542,9 +542,18 @@
     "gui.settingsModal.compatibility.delete": "撕票",
     "gui.settingsModal.compression.label": "变小咒强度",
     "gui.settingsModal.project": "世界",
-    "gui.settingsModal.compiler.label": "Compiler",
-    "gui.settingsModal.indev.label": "This feature is still in the early stages of development, and it may disrupt the editor experience. Are you sure you want to open it anyway?",
-    "gui.settingsModal.compiler.enabled": "Enabled",
-    "gui.settingsModal.compiler.disabled": "Disabled",
-    "gui.menuBar.saveToOriginalFile": "Save to original file"
+    "gui.settingsModal.compiler.label": "Star Platinum!",
+    "gui.settingsModal.indev.label": "本BUG仍在开发中，它可能会吞噬你的项目和一天的好心情。你无论如何都要打开它吗？",
+    "gui.settingsModal.compiler.enabled": "准了",
+    "gui.settingsModal.compiler.disabled": "不太好",
+    "gui.menuBar.saveToOriginalFile": "保存至原世界",
+    "gui.contributorModal.contributorModalTitle": "勇者列榜",
+    "gui.contributorModal.majordeveloper": "皇家卫队队长",
+    "gui.contributorModal.developer": "皇家卫队成员",
+    "gui.contributorModal.designer": "艺术家",
+    "gui.contributorModal.investor": "慈善家",
+    "gui.contributorModal.translator": "翻译官",
+    "gui.contributorModal.advocates": "大喇叭",
+    "gui.contributorModal.donor": "草根勇者",
+    "gui.contributorModal.andyou": "一 个 都 跑 不 了"
 }

@@ -546,5 +546,14 @@
     "gui.settingsModal.indev.label": "此功能仍處於開發的早期階段，可能會擾亂編輯器體驗。 您確定要打開它嗎？",
     "gui.settingsModal.compiler.enabled": "啟用",
     "gui.settingsModal.compiler.disabled": "關閉",
-    "gui.menuBar.saveToOriginalFile": "Save to original file"
+    "gui.menuBar.saveToOriginalFile": "Save to original file",
+    "gui.contributorModal.contributorModalTitle": "Contributor list",
+    "gui.contributorModal.majordeveloper": "Major developer",
+    "gui.contributorModal.developer": "Developer",
+    "gui.contributorModal.designer": "Designer",
+    "gui.contributorModal.investor": "Investor",
+    "gui.contributorModal.translator": "Translator",
+    "gui.contributorModal.advocates": "Advocates",
+    "gui.contributorModal.donor": "Donor",
+    "gui.contributorModal.andyou": "And you."
 }
