@@ -555,5 +555,10 @@
     "gui.contributorModal.translator": "翻译官",
     "gui.contributorModal.advocates": "大喇叭",
     "gui.contributorModal.donor": "草根勇者",
-    "gui.contributorModal.andyou": "一 个 都 跑 不 了"
+    "gui.contributorModal.andyou": "一 个 都 跑 不 了",
+    "gui.settingsModal.autosave.label": "自动拯救",
+    "gui.settingsModal.autosave.on": "好耶",
+    "gui.settingsModal.autosave.off": "坏耶",
+    "gui.settingsModal.autosave.autosaveinterval": "自动拯救间隔",
+    "gui.settingsModal.autosave.unsupport": "浏览器老的没救了 :("
 }

@@ -555,5 +555,10 @@
     "gui.contributorModal.translator": "翻译者",
     "gui.contributorModal.advocates": "宣传支持",
     "gui.contributorModal.donor": "赞助者",
-    "gui.contributorModal.andyou": "还有你。"
+    "gui.contributorModal.andyou": "还有你。",
+    "gui.settingsModal.autosave.label": "自动保存",
+    "gui.settingsModal.autosave.on": "启用",
+    "gui.settingsModal.autosave.off": "禁用",
+    "gui.settingsModal.autosave.autosaveinterval": "自动保存间隔",
+    "gui.settingsModal.autosave.unsupport": "你的浏览器不支持自动保存 😞"
 }

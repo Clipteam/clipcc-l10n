@@ -555,5 +555,10 @@
     "gui.contributorModal.translator": "Translator",
     "gui.contributorModal.advocates": "Advocates",
     "gui.contributorModal.donor": "Donor",
-    "gui.contributorModal.andyou": "And you."
+    "gui.contributorModal.andyou": "And you.",
+    "gui.settingsModal.autosave.label": "Auto Save",
+    "gui.settingsModal.autosave.on": "Enabled",
+    "gui.settingsModal.autosave.off": "Disabled",
+    "gui.settingsModal.autosave.autosaveinterval": "Auto Save interval",
+    "gui.settingsModal.autosave.unsupport": "Your browser not support autosave :("
 }
