@@ -560,5 +560,6 @@
     "gui.settingsModal.autosave.on": "启用",
     "gui.settingsModal.autosave.off": "禁用",
     "gui.settingsModal.autosave.autosaveinterval": "自动保存间隔",
-    "gui.settingsModal.autosave.unsupport": "你的浏览器不支持自动保存 😞"
+    "gui.settingsModal.autosave.unsupport": "你的浏览器不支持自动保存 😞",
+    "gui.defaultProject.sparrow": "小不点"
 }

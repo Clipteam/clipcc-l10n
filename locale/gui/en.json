@@ -560,5 +560,6 @@
     "gui.settingsModal.autosave.on": "Enabled",
     "gui.settingsModal.autosave.off": "Disabled",
     "gui.settingsModal.autosave.autosaveinterval": "Auto Save interval",
-    "gui.settingsModal.autosave.unsupport": "Your browser not support autosave :("
+    "gui.settingsModal.autosave.unsupport": "Your browser not support autosave :(",
+    "gui.defaultProject.sparrow": "Sparrow"
 }
