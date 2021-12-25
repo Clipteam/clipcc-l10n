@@ -564,5 +564,5 @@
     "gui.defaultProject.sparrow": "小不点",
     "gui.customProcedures.returnValue": "返回值",
     "gui.customProcedures.globalFunction": "全局函数",
-    "gui.customProcedures.customReporter": "Custom reporter"
+    "gui.customProcedures.customReporter": "返回值"
 }
