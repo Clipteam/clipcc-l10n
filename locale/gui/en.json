@@ -69,7 +69,7 @@
     "gui.crashMessage.description": "We are so sorry, but it looks like Scratch has crashed. This bug has been automatically reported to the Scratch Team. Please refresh your page to try again.",
     "gui.crashMessage.errorNumber": "Your error was logged with id {errorId}",
     "gui.crashMessage.reload": "Reload",
-    "gui.customProcedures.myblockModalTitle": "Make a Block",
+    "gui.customProcedures.myblockModalTitle": "Define a Function",
     "gui.customProcedures.addAnInputNumberText": "Add an input",
     "gui.customProcedures.numberTextType": "number or text",
     "gui.customProcedures.addAnInputBoolean": "Add an input",
@@ -502,7 +502,7 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customProcedures.globalProcedure": "Global procedure",
+    "gui.customProcedures.globalProcedure": "Global function",
     "gui.menuBar.history": "History",
     "gui.menuBar.signInAndUp": "Sign in or up",
     "gui.menuBar.createNew": "Create new",
@@ -561,5 +561,6 @@
     "gui.settingsModal.autosave.off": "Disabled",
     "gui.settingsModal.autosave.autosaveinterval": "Auto Save interval",
     "gui.settingsModal.autosave.unsupport": "Your browser not support autosave :(",
-    "gui.defaultProject.sparrow": "Sparrow"
+    "gui.defaultProject.sparrow": "Sparrow",
+    "gui.customProcedures.returnValue": "Return value"
 }

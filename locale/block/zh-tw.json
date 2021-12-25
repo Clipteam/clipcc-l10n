@@ -306,8 +306,13 @@
     "@metadata": {
         "author": "Ellen Spertus <ellen.spertus@gmail.com>",
         "lastupdated": "2021-08-16 08:53:14.814884",
-        "locale": "en",
+        "locale": "英文",
         "messagedocumentation": "qqq"
     },
-    "OPERATORS_INDEXOF": "%3 在 %2 中第 %1 次出現的位置"
+    "OPERATORS_INDEXOF": "%3 在 %2 中第 %1 次出現的位置",
+    "PROCEDURES_RETURN": "return %1",
+    "DISABLE_BLOCK": "Disable Block",
+    "ENABLE_BLOCK": "Enable Block",
+    "PROCEDURE_USED": "To delete a function definition, first remove all uses of the block",
+    "CATEGORY_FUNCTIONS": "Functions"
 }

@@ -309,5 +309,10 @@
         "locale": "英文",
         "messagedocumentation": "啥玩意"
     },
-    "OPERATORS_INDEXOF": "字符串 %2 中子串 %3 第 %1 次出现的位置"
+    "OPERATORS_INDEXOF": "字符串 %2 中子串 %3 第 %1 次出现的位置",
+    "PROCEDURES_RETURN": "return %1",
+    "DISABLE_BLOCK": "Disable Block",
+    "ENABLE_BLOCK": "Enable Block",
+    "PROCEDURE_USED": "To delete a function definition, first remove all uses of the block",
+    "CATEGORY_FUNCTIONS": "Functions"
 }

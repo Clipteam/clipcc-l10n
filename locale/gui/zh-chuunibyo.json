@@ -561,5 +561,6 @@
     "gui.settingsModal.autosave.off": "坏耶",
     "gui.settingsModal.autosave.autosaveinterval": "自动拯救间隔",
     "gui.settingsModal.autosave.unsupport": "浏览器老的没救了 :(",
-    "gui.defaultProject.sparrow": "上古神受"
+    "gui.defaultProject.sparrow": "上古神受",
+    "gui.customProcedures.returnValue": "Return value"
 }
