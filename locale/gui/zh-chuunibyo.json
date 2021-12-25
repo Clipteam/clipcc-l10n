@@ -546,7 +546,7 @@
     "gui.settingsModal.indev.label": "本BUG仍在开发中，它可能会吞噬你的项目和一天的好心情。你无论如何都要打开它吗？",
     "gui.settingsModal.compiler.enabled": "准了",
     "gui.settingsModal.compiler.disabled": "不太好",
-    "gui.menuBar.saveToOriginalFile": "保存至原世界",
+    "gui.menuBar.saveToOriginalFile": "拯救至原世界",
     "gui.contributorModal.contributorModalTitle": "勇者列榜",
     "gui.contributorModal.majordeveloper": "皇家卫队队长",
     "gui.contributorModal.developer": "皇家卫队成员",
@@ -562,5 +562,7 @@
     "gui.settingsModal.autosave.autosaveinterval": "自动拯救间隔",
     "gui.settingsModal.autosave.unsupport": "浏览器老的没救了 :(",
     "gui.defaultProject.sparrow": "上古神受",
-    "gui.customProcedures.returnValue": "Return value"
+    "gui.customProcedures.returnValue": "真功",
+    "gui.customProcedures.globalFunction": "环球宝典",
+    "gui.customProcedures.customReporter": "真功"
 }

@@ -304,9 +304,9 @@
     "DEFAULT_BROADCAST_MESSAGE_NAME": "message1",
     "SENSING_CLIPCC_VERSION": "ClipCC版本",
     "OPERATORS_INDEXOF": "%3 在 %2 中第 %1 次出現的位置",
-    "PROCEDURES_RETURN": "return %1",
-    "DISABLE_BLOCK": "Disable Block",
-    "ENABLE_BLOCK": "Enable Block",
-    "PROCEDURE_USED": "To delete a function definition, first remove all uses of the block",
-    "CATEGORY_FUNCTIONS": "Functions"
+    "PROCEDURES_RETURN": "返回%1",
+    "DISABLE_BLOCK": "禁用積木",
+    "ENABLE_BLOCK": "啟用積木",
+    "PROCEDURE_USED": "刪除本函數前，請先刪除它的所有引用",
+    "CATEGORY_FUNCTIONS": "函數"
 }

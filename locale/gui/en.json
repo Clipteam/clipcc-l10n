@@ -562,5 +562,7 @@
     "gui.settingsModal.autosave.autosaveinterval": "Auto Save interval",
     "gui.settingsModal.autosave.unsupport": "Your browser not support autosave :(",
     "gui.defaultProject.sparrow": "Sparrow",
-    "gui.customProcedures.returnValue": "Return value"
+    "gui.customProcedures.returnValue": "Return value",
+    "gui.customProcedures.globalFunction": "Global function",
+    "gui.customProcedures.customReporter": "Custom reporter"
 }

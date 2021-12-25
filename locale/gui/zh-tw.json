@@ -562,5 +562,7 @@
     "gui.settingsModal.autosave.autosaveinterval": "自動保存間隔時間",
     "gui.settingsModal.autosave.unsupport": "抱歉，你使用的的瀏覽器不支持自動存儲。",
     "gui.defaultProject.sparrow": "小可愛（吉祥物）",
-    "gui.customProcedures.returnValue": "Return value"
+    "gui.customProcedures.returnValue": "回調值",
+    "gui.customProcedures.globalFunction": "全局函數",
+    "gui.customProcedures.customReporter": "回調值"
 }

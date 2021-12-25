@@ -304,9 +304,9 @@
     "DEFAULT_BROADCAST_MESSAGE_NAME": "消息1",
     "SENSING_CLIPCC_VERSION": "ClipCC版本",
     "OPERATORS_INDEXOF": "字符串 %2 中子串 %3 第 %1 次出现的位置",
-    "PROCEDURES_RETURN": "return %1",
-    "DISABLE_BLOCK": "Disable Block",
-    "ENABLE_BLOCK": "Enable Block",
-    "PROCEDURE_USED": "To delete a function definition, first remove all uses of the block",
-    "CATEGORY_FUNCTIONS": "Functions"
+    "PROCEDURES_RETURN": "返回 %1",
+    "DISABLE_BLOCK": "禁用积木",
+    "ENABLE_BLOCK": "启用积木",
+    "PROCEDURE_USED": "要删除函数定义，需先删除引用该函数的所有积木",
+    "CATEGORY_FUNCTIONS": "函数"
 }
