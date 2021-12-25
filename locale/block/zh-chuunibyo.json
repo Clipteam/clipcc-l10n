@@ -303,12 +303,6 @@
     "BROADCAST_MODAL_TITLE": "新消息",
     "DEFAULT_BROADCAST_MESSAGE_NAME": "消息1",
     "SENSING_CLIPCC_VERSION": "纪年",
-    "@metadata": {
-        "author": "Ellen Spertus <ellen.spertus@gmail.com>",
-        "lastupdated": "2021-08-16 08:53:14.814884",
-        "locale": "en",
-        "messagedocumentation": "qqq"
-    },
     "OPERATORS_INDEXOF": "子串 %3 在 %2 中第 %1 次出现的位置",
     "PROCEDURES_RETURN": "return %1",
     "DISABLE_BLOCK": "Disable Block",
