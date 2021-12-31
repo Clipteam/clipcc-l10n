@@ -502,7 +502,6 @@
     "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
     "gui.sharedMessages.loadFromComputerTitle": "Load from your computer",
     "gui.gui.defaultProjectTitle": "Scratch Project",
-    "gui.customProcedures.globalProcedure": "Global function",
     "gui.menuBar.history": "History",
     "gui.menuBar.signInAndUp": "Sign in or up",
     "gui.menuBar.createNew": "Create new",

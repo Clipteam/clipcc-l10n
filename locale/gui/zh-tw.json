@@ -502,7 +502,6 @@
     "gui.sharedMessages.replaceProjectWarning": "是否取代現有專案？",
     "gui.sharedMessages.loadFromComputerTitle": "從你的電腦挑選",
     "gui.gui.defaultProjectTitle": "Scratch 專案",
-    "gui.customProcedures.globalProcedure": "全局自定義積木",
     "gui.menuBar.history": "作品歷史",
     "gui.menuBar.signInAndUp": "登錄或註冊",
     "gui.menuBar.createNew": "創建一個新作品",

@@ -308,5 +308,6 @@
     "DISABLE_BLOCK": "Disable Block",
     "ENABLE_BLOCK": "Enable Block",
     "PROCEDURE_USED": "To delete a function definition, first remove all uses of the block",
-    "CATEGORY_FUNCTIONS": "Functions"
+    "CATEGORY_FUNCTIONS": "Functions",
+    "OBSOLETED_BLOCKS": "Obsoleted Blocks"
 }

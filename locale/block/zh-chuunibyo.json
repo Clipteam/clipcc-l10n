@@ -308,5 +308,6 @@
     "DISABLE_BLOCK": "置之不理",
     "ENABLE_BLOCK": "重新理她",
     "PROCEDURE_USED": "废掉这个宝典前请废掉她的所有臣民",
-    "CATEGORY_FUNCTIONS": "宝典"
+    "CATEGORY_FUNCTIONS": "宝典",
+    "OBSOLETED_BLOCKS": "遗忘之地"
 }
