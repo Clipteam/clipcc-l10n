@@ -309,5 +309,5 @@
     "ENABLE_BLOCK": "啟用積木",
     "PROCEDURE_USED": "刪除本函數前，請先刪除它的所有引用",
     "CATEGORY_FUNCTIONS": "函數",
-    "OBSOLETED_BLOCKS": "Obsoleted Blocks"
+    "OBSOLETED_BLOCKS": "弃用的積木"
 }
