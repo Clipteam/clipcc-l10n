@@ -563,5 +563,18 @@
     "gui.defaultProject.sparrow": "小可愛（吉祥物）",
     "gui.customProcedures.returnValue": "回調值",
     "gui.customProcedures.globalFunction": "全局函數",
-    "gui.customProcedures.customReporter": "回調值"
+    "gui.customProcedures.customReporter": "回調值",
+    "gui.customProcedures.addInputNumberOrText": "Add a number or text input",
+    "gui.customProcedures.addInputBoolean": "Add a boolean input",
+    "gui.customProcedures.addLabel": "Add a label",
+    "gui.extensionLibrary.version": "Version",
+    "gui.extensionLibrary.author": "Author",
+    "gui.loadErrorModal.confirm": "Confirm",
+    "gui..loadErrorModal.title": "Load Error",
+    "gui.loadError.unavailableExtension": "Unavailable Extension",
+    "gui.menuBar.downloadToComputer.cc3": "Save .cc3 file to your computer",
+    "gui.menuBar.downloadToComputer.sb3": "Save .sb3 file to your computer",
+    "gui.extensionLibrary.errorUnavaliable": "The following extensions are not found:",
+    "gui.extensionLibrary.errorCircular": "Circular requirements.",
+    "gui.extensionLibrary.requireStack": "Require stack:"
 }

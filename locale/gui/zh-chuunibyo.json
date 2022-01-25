@@ -563,5 +563,18 @@
     "gui.defaultProject.sparrow": "上古神受",
     "gui.customProcedures.returnValue": "真功",
     "gui.customProcedures.globalFunction": "环球宝典",
-    "gui.customProcedures.customReporter": "真功"
+    "gui.customProcedures.customReporter": "真功",
+    "gui.customProcedures.addInputNumberOrText": "添加数字/文本输入框",
+    "gui.customProcedures.addInputBoolean": "添加布尔值输入框",
+    "gui.customProcedures.addLabel": "添加文本",
+    "gui.extensionLibrary.version": "版本",
+    "gui.extensionLibrary.author": "作者",
+    "gui.loadErrorModal.confirm": "确认",
+    "gui..loadErrorModal.title": "加载错误",
+    "gui.loadError.unavailableExtension": "不可用的扩展",
+    "gui.menuBar.downloadToComputer.cc3": "存储 .cc3 文件到你的电脑",
+    "gui.menuBar.downloadToComputer.sb3": "存储 .sb3 文件到你的电脑",
+    "gui.extensionLibrary.errorUnavaliable": "以下扩展未找到：",
+    "gui.extensionLibrary.errorCircular": "循环的依赖关系。",
+    "gui.extensionLibrary.requireStack": "依赖栈："
 }
