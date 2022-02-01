@@ -576,5 +576,6 @@
     "gui.menuBar.downloadToComputer.sb3": "Save .sb3 file to your computer",
     "gui.extensionLibrary.errorUnavaliable": "The following extensions are not found:",
     "gui.extensionLibrary.errorCircular": "Circular requirements.",
-    "gui.extensionLibrary.requireStack": "Require stack:"
+    "gui.extensionLibrary.requireStack": "Require stack:",
+    "gui.library.fromOnline": "From Online"
 }

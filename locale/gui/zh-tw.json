@@ -576,5 +576,6 @@
     "gui.menuBar.downloadToComputer.sb3": "保存.sb3文件到您的計算機",
     "gui.extensionLibrary.errorUnavaliable": "無法找到以下擴展：",
     "gui.extensionLibrary.errorCircular": "需要循環。",
-    "gui.extensionLibrary.requireStack": "堆棧需要："
+    "gui.extensionLibrary.requireStack": "堆棧需要：",
+    "gui.library.fromOnline": "從ClipCC在線擴展庫添加"
 }

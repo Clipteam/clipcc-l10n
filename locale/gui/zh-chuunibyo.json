@@ -576,5 +576,6 @@
     "gui.menuBar.downloadToComputer.sb3": "存储 .sb3 文件到你的电脑",
     "gui.extensionLibrary.errorUnavaliable": "以下扩展未找到：",
     "gui.extensionLibrary.errorCircular": "循环的依赖关系。",
-    "gui.extensionLibrary.requireStack": "依赖栈："
+    "gui.extensionLibrary.requireStack": "依赖栈：",
+    "gui.library.fromOnline": "招兵买马"
 }
