@@ -577,5 +577,6 @@
     "gui.extensionLibrary.errorUnavaliable": "以下扩展未找到：",
     "gui.extensionLibrary.errorCircular": "循环的依赖关系。",
     "gui.extensionLibrary.requireStack": "依赖栈：",
-    "gui.library.fromOnline": "招兵买马"
+    "gui.library.fromOnline": "招兵买马",
+    "gui.extensionLibrary.unsupportChannel": "广播站已被该浏览器拆除，所以你不能招兵买马！"
 }

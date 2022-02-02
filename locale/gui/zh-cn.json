@@ -577,5 +577,6 @@
     "gui.extensionLibrary.errorUnavaliable": "以下扩展未找到：",
     "gui.extensionLibrary.errorCircular": "循环的依赖关系。",
     "gui.extensionLibrary.requireStack": "依赖栈：",
-    "gui.library.fromOnline": "在线获取"
+    "gui.library.fromOnline": "在线获取",
+    "gui.extensionLibrary.unsupportChannel": "BroadcastChannel 不被该浏览器支持，因此你不能使用在线扩展站。"
 }

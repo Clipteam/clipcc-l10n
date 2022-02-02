@@ -577,5 +577,6 @@
     "gui.extensionLibrary.errorUnavaliable": "無法找到以下擴展：",
     "gui.extensionLibrary.errorCircular": "需要循環。",
     "gui.extensionLibrary.requireStack": "堆棧需要：",
-    "gui.library.fromOnline": "從ClipCC在線擴展庫添加"
+    "gui.library.fromOnline": "從ClipCC在線擴展庫添加",
+    "gui.extensionLibrary.unsupportChannel": "BroadcastChannel不被該瀏覽器支持，囙此你不能使用線上擴展站。 "
 }

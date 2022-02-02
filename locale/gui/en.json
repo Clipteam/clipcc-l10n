@@ -577,5 +577,6 @@
     "gui.extensionLibrary.errorUnavaliable": "The following extensions are not found:",
     "gui.extensionLibrary.errorCircular": "Circular requirements.",
     "gui.extensionLibrary.requireStack": "Require stack:",
-    "gui.library.fromOnline": "From Online"
+    "gui.library.fromOnline": "From Online",
+    "gui.extensionLibrary.unsupportChannel": "BroadcastChannel is not supported, So yo cannot use extension store anyway."
 }
