@@ -580,5 +580,7 @@
     "gui.library.fromOnline": "在线获取",
     "gui.extensionLibrary.unsupportChannel": "BroadcastChannel 不被该浏览器支持，因此你不能使用在线扩展站。",
     "gui.aboutModal.commitHash": "Commit 哈希",
-    "gui.aboutModal.compileTime": "编译时间"
+    "gui.aboutModal.compileTime": "编译时间",
+    "gui.monitor.contextMenu.hide": "隐藏",
+    "gui.gui.listPromptAllSpritesMessage": "该列表在所有角色中可用。"
 }
