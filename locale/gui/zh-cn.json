@@ -582,5 +582,8 @@
     "gui.aboutModal.commitHash": "Commit 哈希",
     "gui.aboutModal.compileTime": "编译时间",
     "gui.monitor.contextMenu.hide": "隐藏",
-    "gui.gui.listPromptAllSpritesMessage": "该列表在所有角色中可用。"
+    "gui.gui.listPromptAllSpritesMessage": "该列表在所有角色中可用。",
+    "gui.settingsModal.seamless.label": "无缝全屏",
+    "gui.settingsModal.seamless.enabled": "启用",
+    "gui.settingsModal.seamless.disabled": "禁用"
 }

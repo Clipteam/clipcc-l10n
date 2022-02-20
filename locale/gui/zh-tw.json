@@ -582,5 +582,8 @@
     "gui.aboutModal.commitHash": "Commit Hash",
     "gui.aboutModal.compileTime": "Compile Time",
     "gui.monitor.contextMenu.hide": "hide",
-    "gui.gui.listPromptAllSpritesMessage": "This list will be available to all sprites."
+    "gui.gui.listPromptAllSpritesMessage": "This list will be available to all sprites.",
+    "gui.settingsModal.seamless.label": "Seamless Fullscreen",
+    "gui.settingsModal.seamless.enabled": "Enabled",
+    "gui.settingsModal.seamless.disabled": "Disabled"
 }
