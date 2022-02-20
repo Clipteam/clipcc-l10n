@@ -579,5 +579,6 @@
     "gui.extensionLibrary.requireStack": "堆棧需要：",
     "gui.library.fromOnline": "從ClipCC在線擴展庫添加",
     "gui.extensionLibrary.unsupportChannel": "您所使用的瀏覽器不支持BroadcastChannel，因此您無法使用ClipCC在線擴展站。",
-    "gui.aboutModal.commitHash": "Commit Hash"
+    "gui.aboutModal.commitHash": "Commit Hash",
+    "gui.aboutModal.compileTime": "Compile Time"
 }

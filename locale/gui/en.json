@@ -579,5 +579,6 @@
     "gui.extensionLibrary.requireStack": "Require stack:",
     "gui.library.fromOnline": "From Online",
     "gui.extensionLibrary.unsupportChannel": "BroadcastChannel is not supported, So yo cannot use extension store anyway.",
-    "gui.aboutModal.commitHash": "Commit Hash"
+    "gui.aboutModal.commitHash": "Commit Hash",
+    "gui.aboutModal.compileTime": "Compile Time"
 }
