@@ -51,7 +51,7 @@
     "node-fetch": "^2.6.0",
     "p-limit": "2.1.0",
     "p-queue": "3.0.0",
-    "react-intl": "2.8.0",
+    "react-intl": "3.12.1",
     "rimraf": "^2.6.2",
     "webpack": "^4.6.0",
     "webpack-cli": "^3.1.2"
