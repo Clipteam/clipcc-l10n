@@ -67,7 +67,7 @@ const locales = {
     'uk': {name: 'Українська'},*/
     'zh-cn': {name: '简体中文'},
     'zh-tw': {name: '繁體中文'},
-    'zh-chuunibyo': {name: '中二模式'}
+    'zh-cn-chunibyo': {name: '中二模式'}
 };
 
 const customLocales = {
@@ -92,8 +92,8 @@ const customLocales = {
         locale: 'zh-tw',
         parentLocale: 'zh'
     },
-    'zh-chuunibyo': {
-        locale: 'zh-chuunibyo',
+    'zh-cn-chunibyo': {
+        locale: 'zh-cn-chunibyo',
         parentLocale: 'zh'
     }
 };
@@ -105,7 +105,7 @@ const localeMap = {
     'pt-br': 'pt_BR',*/
     'zh-cn': 'zh-Hans',
     'zh-tw': 'zh-Hant',
-    'zh-chuunibyo': 'zh-Chuunibyo'
+    'zh-cn-chunibyo': 'zh-cn-Chunibyo'
 };
 
 // list of RTL locales supported, and a function to check whether a locale is RTL
