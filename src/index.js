@@ -1,8 +1,7 @@
-import locales, {customLocales, localeMap, isRtl} from './supported-locales.js';
-
-for (const lang in customLocales) {
-    localeData.push(customLocales[lang]);
-}
+import locales, {localeMap, isRtl} from './supported-locales.js';
+import '@formatjs/intl-pluralrules/polyfill';
+import '@formatjs/intl-pluralrules/locale-data/en';
+import '@formatjs/intl-pluralrules/locale-data/zh';
 
 export {
     locales as default,
