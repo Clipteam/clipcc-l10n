@@ -579,11 +579,11 @@
     "gui.extensionLibrary.requireStack": "依赖栈：",
     "gui.library.fromOnline": "招兵买马",
     "gui.extensionLibrary.unsupportChannel": "广播站已被该浏览器拆除，所以你不能招兵买马！",
-    "gui.aboutModal.commitHash": "Commit Hash",
-    "gui.aboutModal.compileTime": "Compile Time",
-    "gui.monitor.contextMenu.hide": "hide",
-    "gui.gui.listPromptAllSpritesMessage": "This list will be available to all sprites.",
-    "gui.settingsModal.seamless.label": "Seamless Fullscreen",
-    "gui.settingsModal.seamless.enabled": "Enabled",
-    "gui.settingsModal.seamless.disabled": "Disabled"
+    "gui.aboutModal.commitHash": "世界标记",
+    "gui.aboutModal.compileTime": "创世之日",
+    "gui.monitor.contextMenu.hide": "藏匿",
+    "gui.gui.listPromptAllSpritesMessage": "该清单对于所有精灵可用",
+    "gui.settingsModal.seamless.label": "无凤醛瓶",
+    "gui.settingsModal.seamless.enabled": "我准了",
+    "gui.settingsModal.seamless.disabled": "不要"
 }
