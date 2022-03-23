@@ -585,5 +585,7 @@
     "gui.gui.listPromptAllSpritesMessage": "该列表在所有角色中可用。",
     "gui.settingsModal.seamless.label": "无缝全屏",
     "gui.settingsModal.seamless.enabled": "启用",
-    "gui.settingsModal.seamless.disabled": "禁用"
+    "gui.settingsModal.seamless.disabled": "禁用",
+    "gui.aboutModal.desktopComponentVersion": "{component} 版本",
+    "gui.loader.blocks": "加载积木中"
 }

@@ -585,5 +585,7 @@
     "gui.gui.listPromptAllSpritesMessage": "This list will be available to all sprites.",
     "gui.settingsModal.seamless.label": "Seamless Fullscreen",
     "gui.settingsModal.seamless.enabled": "Enabled",
-    "gui.settingsModal.seamless.disabled": "Disabled"
+    "gui.settingsModal.seamless.disabled": "Disabled",
+    "gui.aboutModal.desktopComponentVersion": "{component} Version",
+    "gui.loader.blocks": "Loading Blocks"
 }

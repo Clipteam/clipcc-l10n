@@ -585,5 +585,7 @@
     "gui.gui.listPromptAllSpritesMessage": "该清单对于所有精灵可用",
     "gui.settingsModal.seamless.label": "无凤醛瓶",
     "gui.settingsModal.seamless.enabled": "我准了",
-    "gui.settingsModal.seamless.disabled": "不要"
+    "gui.settingsModal.seamless.disabled": "不要",
+    "gui.aboutModal.desktopComponentVersion": "{component} Version",
+    "gui.loader.blocks": "Loading Blocks"
 }
