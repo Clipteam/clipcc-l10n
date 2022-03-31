@@ -587,5 +587,7 @@
     "gui.settingsModal.seamless.enabled": "Enabled",
     "gui.settingsModal.seamless.disabled": "Disabled",
     "gui.aboutModal.desktopComponentVersion": "{component} Version",
-    "gui.loader.blocks": "Loading Blocks"
+    "gui.loader.blocks": "Loading Blocks",
+    "gui.settingsModal.saveExtension.label": "Save Extension to Project File",
+    "gui.settingsModal.saveOptionalExtension.label": "Save Optional Extension to Project File"
 }

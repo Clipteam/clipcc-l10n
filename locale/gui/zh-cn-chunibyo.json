@@ -586,6 +586,8 @@
     "gui.settingsModal.seamless.label": "无凤醛瓶",
     "gui.settingsModal.seamless.enabled": "我准了",
     "gui.settingsModal.seamless.disabled": "不要",
-    "gui.aboutModal.desktopComponentVersion": "{component} Version",
-    "gui.loader.blocks": "Loading Blocks"
+    "gui.aboutModal.desktopComponentVersion": "{component} 版本",
+    "gui.loader.blocks": "打乱乐高中",
+    "gui.settingsModal.saveExtension.label": "藏匿士兵于木马内",
+    "gui.settingsModal.saveOptionalExtension.label": "藏匿废物于木马内"
 }

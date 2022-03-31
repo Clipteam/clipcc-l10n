@@ -168,9 +168,9 @@
     "gui.recordingStep.stop": "Stop recording",
     "gui.recordingStep.record": "Record",
     "gui.settingsModal.layout.label": "Layout Style",
-    "gui.settingsModal.layout.scratch1": "Scratch 1.4 Style",
-    "gui.settingsModal.layout.scratch2": "Scratch 2.0 Style",
-    "gui.settingsModal.layout.scratch3": "Scratch 3.0 Style",
+    "gui.settingsModal.layout.scratch1": "Scratch 1.4",
+    "gui.settingsModal.layout.scratch2": "Scratch 2.0",
+    "gui.settingsModal.layout.scratch3": "Scratch 3.0",
     "gui.settingsModal.title": "Settings",
     "gui.settingsModal.darkFullscreenStage": "Dark fullscreen stage",
     "gui.sliderModal.min": "Minimum value",
@@ -524,7 +524,7 @@
     "gui.extensionLibrary.confirmContent2": "The following dependencies will be added:",
     "gui.extensionLibrary.confirmContent3": "The following extensions will be removed:",
     "gui.extensionLibrary.confirmContent4": "The following dependencies will be removed:",
-    "gui.settingsModal.darkmode.label": "Dark mode",
+    "gui.settingsModal.darkmode.label": "Dark Mode",
     "gui.settingsModal.darkmode.system": "System",
     "gui.settingsModal.darkmode.dark": "Dark",
     "gui.settingsModal.darkmode.light": "Light",
@@ -587,5 +587,7 @@
     "gui.settingsModal.seamless.enabled": "Enabled",
     "gui.settingsModal.seamless.disabled": "Disabled",
     "gui.aboutModal.desktopComponentVersion": "{component} Version",
-    "gui.loader.blocks": "Loading Blocks"
+    "gui.loader.blocks": "Loading Blocks",
+    "gui.settingsModal.saveExtension.label": "Save Extension to Project File",
+    "gui.settingsModal.saveOptionalExtension.label": "Save Optional Extension to Project File"
 }

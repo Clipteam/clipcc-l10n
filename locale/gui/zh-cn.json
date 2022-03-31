@@ -587,5 +587,7 @@
     "gui.settingsModal.seamless.enabled": "启用",
     "gui.settingsModal.seamless.disabled": "禁用",
     "gui.aboutModal.desktopComponentVersion": "{component} 版本",
-    "gui.loader.blocks": "加载积木中"
+    "gui.loader.blocks": "加载积木中",
+    "gui.settingsModal.saveExtension.label": "存储扩展至项目文件",
+    "gui.settingsModal.saveOptionalExtension.label": "存储可选扩展至项目文件"
 }
