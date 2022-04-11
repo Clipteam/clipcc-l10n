@@ -504,7 +504,7 @@
     "gui.gui.defaultProjectTitle": "Scratch Project",
     "gui.menuBar.history": "History",
     "gui.menuBar.signInAndUp": "Sign in or up",
-    "gui.menuBar.createNew": "Create new",
+    "gui.menuBar.createNew": "Create New Project",
     "gui.notfoundMessage.label": "Oops! This project is not found.",
     "gui.notfoundMessage.description": "We are so sorry, but it looks like this project is not found or either disabled by its author",
     "gui.settingsModal.fps.label": "FPS",
@@ -590,5 +590,7 @@
     "gui.loader.blocks": "Loading Blocks",
     "gui.settingsModal.saveExtension.label": "Save Extension to Project File",
     "gui.settingsModal.saveOptionalExtension.label": "Save Optional Extension to Project File",
-    "gui.settingsModal.hideNonoriginalBlocks.label": "Hide non-original Blocks"
+    "gui.settingsModal.hideNonoriginalBlocks.label": "Hide non-original Blocks",
+    "gui.menuBar.loginOrRegister": "Login or Register",
+    "gui.menuBar.publish": "Publish"
 }

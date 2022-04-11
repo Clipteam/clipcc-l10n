@@ -590,5 +590,7 @@
     "gui.loader.blocks": "打乱乐高中",
     "gui.settingsModal.saveExtension.label": "藏匿士兵于木马内",
     "gui.settingsModal.saveOptionalExtension.label": "藏匿废物于木马内",
-    "gui.settingsModal.hideNonoriginalBlocks.label": "隐藏神器"
+    "gui.settingsModal.hideNonoriginalBlocks.label": "隐藏神器",
+    "gui.menuBar.loginOrRegister": "生存还是毁灭",
+    "gui.menuBar.publish": "发钚"
 }
