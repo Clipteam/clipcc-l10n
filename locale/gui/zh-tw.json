@@ -592,5 +592,6 @@
     "gui.settingsModal.saveOptionalExtension.label": "Save Optional Extension to Project File",
     "gui.settingsModal.hideNonoriginalBlocks.label": "Hide non-original Blocks",
     "gui.menuBar.loginOrRegister": "Login or Register",
-    "gui.menuBar.publish": "Publish"
+    "gui.menuBar.publish": "Publish",
+    "gui.settingsModal.hqpen.label": "High-Quality Pen"
 }

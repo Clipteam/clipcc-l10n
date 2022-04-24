@@ -592,5 +592,6 @@
     "gui.settingsModal.saveOptionalExtension.label": "存储可选扩展至项目文件",
     "gui.settingsModal.hideNonoriginalBlocks.label": "隐藏专有积木",
     "gui.menuBar.loginOrRegister": "登录或注册",
-    "gui.menuBar.publish": "发布"
+    "gui.menuBar.publish": "发布",
+    "gui.settingsModal.hqpen.label": "高清画笔"
 }
