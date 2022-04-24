@@ -16,7 +16,7 @@ jobs:
         env:
           POE_TOKEN: ${{ secrets.POE_TOKEN }}
       - name: Push Commit
-        uses: github-actions-x/commit@v2.8
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           push-branch: master
