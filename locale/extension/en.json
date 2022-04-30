@@ -88,7 +88,7 @@
     "gdxfor.whenTilted": "when tilted [TILT]",
     "httpio.categoryName": "HttpIO",
     "httpio.httpGet": "get [URL]",
-    "httpio.httpPost": "post [URL] with prefix variable [PREFIX]",
+    "httpio.httpPost": "post [URL] with JSON [JSON]",
     "httpio.setHeader": "set header to [HEADER]",
     "httpio.setUA": "set UA to [UA]",
     "libra.categoryName": "Libra",
