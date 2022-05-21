@@ -309,5 +309,14 @@
     "ENABLE_BLOCK": "启用积木",
     "PROCEDURE_USED": "要删除函数定义，需先删除引用该函数的所有积木",
     "CATEGORY_FUNCTIONS": "函数",
-    "OBSOLETED_BLOCKS": "弃用的积木"
+    "OBSOLETED_BLOCKS": "弃用的积木",
+    "CONTROL_YIELD": "挂起线程",
+    "CONTROL_BREAKPOINT": "断点",
+    "@metadata": {
+        "author": "Ellen Spertus <ellen.spertus@gmail.com>",
+        "lastupdated": "2022-05-21 18:50:25.320660",
+        "locale": "en",
+        "messagedocumentation": "qqq"
+    },
+    "CONTROL_SUSPEND": "挂起线程"
 }

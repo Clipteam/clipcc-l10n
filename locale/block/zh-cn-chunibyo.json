@@ -309,5 +309,14 @@
     "ENABLE_BLOCK": "重新理她",
     "PROCEDURE_USED": "废掉这个宝典前请废掉她的所有臣民",
     "CATEGORY_FUNCTIONS": "宝典",
-    "OBSOLETED_BLOCKS": "遗忘之地"
+    "OBSOLETED_BLOCKS": "遗忘之地",
+    "CONTROL_YIELD": "yield",
+    "CONTROL_BREAKPOINT": "breakpoint",
+    "@metadata": {
+        "author": "Ellen Spertus <ellen.spertus@gmail.com>",
+        "lastupdated": "2022-05-21 18:50:25.320660",
+        "locale": "en",
+        "messagedocumentation": "qqq"
+    },
+    "CONTROL_SUSPEND": "suspend thread"
 }
