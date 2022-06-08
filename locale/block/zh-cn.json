@@ -318,5 +318,8 @@
         "locale": "en",
         "messagedocumentation": "qqq"
     },
-    "CONTROL_SUSPEND": "挂起线程"
+    "CONTROL_SUSPEND": "挂起线程",
+    "SENSING_JOYSTICKX": "摇杆 x 偏移",
+    "SENSING_JOYSTICKY": "摇杆 y 偏移",
+    "SENSING_JOYSTICK_DISTANCE": "摇杆距离"
 }

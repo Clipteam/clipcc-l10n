@@ -318,5 +318,8 @@
         "locale": "en",
         "messagedocumentation": "qqq"
     },
-    "CONTROL_SUSPEND": "suspend thread"
+    "CONTROL_SUSPEND": "suspend thread",
+    "SENSING_JOYSTICKX": "joystick x axis",
+    "SENSING_JOYSTICKY": "joystick y axis",
+    "SENSING_JOYSTICK_DISTANCE": "joystick distance"
 }
