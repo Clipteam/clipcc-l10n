@@ -310,16 +310,9 @@
     "PROCEDURE_USED": "废掉这个宝典前请废掉她的所有臣民",
     "CATEGORY_FUNCTIONS": "宝典",
     "OBSOLETED_BLOCKS": "遗忘之地",
-    "CONTROL_YIELD": "yield",
-    "CONTROL_BREAKPOINT": "breakpoint",
-    "@metadata": {
-        "author": "Ellen Spertus <ellen.spertus@gmail.com>",
-        "lastupdated": "2022-05-21 18:50:25.320660",
-        "locale": "en",
-        "messagedocumentation": "qqq"
-    },
-    "CONTROL_SUSPEND": "suspend thread",
-    "SENSING_JOYSTICKX": "joystick x axis",
-    "SENSING_JOYSTICKY": "joystick y axis",
-    "SENSING_JOYSTICK_DISTANCE": "joystick distance"
+    "CONTROL_BREAKPOINT": "打破点子",
+    "CONTROL_SUSPEND": "冻住线程",
+    "SENSING_JOYSTICKX": "咬杆 x 偏移",
+    "SENSING_JOYSTICKY": "咬杆 y 偏移",
+    "SENSING_JOYSTICK_DISTANCE": "咬杆距离"
 }

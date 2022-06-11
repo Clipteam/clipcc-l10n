@@ -310,16 +310,9 @@
     "PROCEDURE_USED": "刪除本函數前，請先刪除它的所有引用",
     "CATEGORY_FUNCTIONS": "函數",
     "OBSOLETED_BLOCKS": "弃用的積木",
-    "CONTROL_YIELD": "yield",
     "CONTROL_BREAKPOINT": "斷點",
-    "@metadata": {
-        "author": "Ellen Spertus <ellen.spertus@gmail.com>",
-        "lastupdated": "2022-05-21 18:50:25.320660",
-        "locale": "en",
-        "messagedocumentation": "qqq"
-    },
     "CONTROL_SUSPEND": "掛起線程",
-    "SENSING_JOYSTICKX": "joystick x axis",
-    "SENSING_JOYSTICKY": "joystick y axis",
-    "SENSING_JOYSTICK_DISTANCE": "joystick distance"
+    "SENSING_JOYSTICKX": "搖桿x軸",
+    "SENSING_JOYSTICKY": "搖桿y軸",
+    "SENSING_JOYSTICK_DISTANCE": "搖杆位置"
 }
