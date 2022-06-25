@@ -232,7 +232,7 @@
     "gui.telemetryOptIn.buttonClose": "关闭",
     "gui.turboMode.active": "加速模式",
     "gui.webglModal.label": "你的浏览器不支持WebGL",
-    "gui.webglModal.description": "非常遗憾，你的电脑或浏览器{webGlLink}。Scratch 3.0需要该技术才能运行。",
+    "gui.webglModal.description": "非常遗憾，你的电脑或浏览器{webGlLink}。ClipCC 3.0需要该技术才能运行。",
     "gui.webglModal.webgllink": "不支持WebGL",
     "gui.webglModal.back": "返回",
     "gui.webglModal.previewfaq": "访问{previewFaqLink}，了解更多。",
@@ -501,7 +501,7 @@
     "gui.sharedMessages.pop": "啵",
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中打开",
-    "gui.gui.defaultProjectTitle": "Scratch作品",
+    "gui.gui.defaultProjectTitle": "ClipCC 作品",
     "gui.menuBar.history": "作品历史",
     "gui.menuBar.signInAndUp": "登录或注册",
     "gui.menuBar.createNew": "创建一个新作品",
@@ -593,5 +593,6 @@
     "gui.settingsModal.hideNonoriginalBlocks.label": "隐藏专有积木",
     "gui.menuBar.loginOrRegister": "登录或注册",
     "gui.menuBar.publish": "发布",
-    "gui.settingsModal.hqpen.label": "高清画笔"
+    "gui.settingsModal.hqpen.label": "高清画笔",
+    "gui.settingsModal.experimental": "实验性"
 }

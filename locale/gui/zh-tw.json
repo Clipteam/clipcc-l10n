@@ -593,5 +593,6 @@
     "gui.settingsModal.hideNonoriginalBlocks.label": "隱藏沒有引入的代碼塊",
     "gui.menuBar.loginOrRegister": "登陸或註冊",
     "gui.menuBar.publish": "發布",
-    "gui.settingsModal.hqpen.label": "高質量畫筆"
+    "gui.settingsModal.hqpen.label": "高質量畫筆",
+    "gui.settingsModal.experimental": "Experimental"
 }
