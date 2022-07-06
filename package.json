@@ -1,6 +1,6 @@
 {
   "name": "clipcc-l10n",
-  "version": "3.1.7",
+  "version": "3.1.8",
   "description": "Localization library for ClipCC.",
   "main": "dist/clipcc-l10n.js",
   "repository": {
