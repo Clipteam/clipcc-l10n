@@ -286,7 +286,7 @@
     "gui.extension.clipcc.json.name": "JSON",
     "gui.extension.clipcc.json.description": "用途多多的JSON扩展。",
     "ccjson.getLengthOfArray": "获取数组 [ARRAY] 的长度",
-    "ccjson.setValueByPos": "设置数组 [ARRAY] 第 [POS] 项的值为",
+    "ccjson.setValueByPos": "设置数组 [ARRAY] 第 [POS] 项的值为 [VALUE]",
     "pen.GoPenLayer": "将画笔图层设为 [OPTION]",
     "pen.layerMenu.back": "底层",
     "pen.layerMenu.front": "顶层"
