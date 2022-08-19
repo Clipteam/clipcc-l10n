@@ -314,5 +314,8 @@
     "CONTROL_SUSPEND": "挂起线程",
     "SENSING_JOYSTICKX": "摇杆 x 偏移",
     "SENSING_JOYSTICKY": "摇杆 y 偏移",
-    "SENSING_JOYSTICK_DISTANCE": "摇杆距离"
+    "SENSING_JOYSTICK_DISTANCE": "摇杆距离",
+    "SENSING_COLORAT": "获取在点 (x: %1, y: %2) 的值",
+    "COPY_TO_CLIPBOARD": "复制到剪贴板",
+    "PASTE_FROM_CLIPBOARD": "从剪贴板粘贴"
 }

@@ -594,5 +594,11 @@
     "gui.menuBar.loginOrRegister": "生存还是毁灭",
     "gui.menuBar.publish": "发钚",
     "gui.settingsModal.hqpen.label": "神笔马良",
-    "gui.settingsModal.experimental": "修炼中"
+    "gui.settingsModal.experimental": "修炼中",
+    "gui.menuBar.modeMenu": "⚡ 神秘按钮",
+    "gui.menuBar.normalMode": "🌸",
+    "gui.menuBar.caturdayMode": "🍭",
+    "gui.menuBar.1990sMode": "🎶",
+    "gui.menuBar.oldTimeyMode": "⏰",
+    "gui.menuBar.prehistoricMode": "🦖"
 }

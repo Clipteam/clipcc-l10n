@@ -594,5 +594,11 @@
     "gui.menuBar.loginOrRegister": "登录或注册",
     "gui.menuBar.publish": "发布",
     "gui.settingsModal.hqpen.label": "高清画笔",
-    "gui.settingsModal.experimental": "实验性"
+    "gui.settingsModal.experimental": "实验性",
+    "gui.menuBar.modeMenu": "⚡ 显示模式",
+    "gui.menuBar.normalMode": "正常",
+    "gui.menuBar.caturdayMode": "🍭 星期六",
+    "gui.menuBar.1990sMode": "🎶 相约 98",
+    "gui.menuBar.oldTimeyMode": "⏰ 旧日时光",
+    "gui.menuBar.prehistoricMode": "🦖 史前文明"
 }

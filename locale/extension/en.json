@@ -284,5 +284,10 @@
     "pen.setPrintFontSize": "set print font size to [SIZE]",
     "pen.setPrintFontUnderline": "set print font underline to [BOOLEANMENU]",
     "gui.extension.clipcc.json.name": "JSON",
-    "gui.extension.clipcc.json.description": "Useful JSON extension."
+    "gui.extension.clipcc.json.description": "Useful JSON extension.",
+    "ccjson.getLengthOfArray": "get length of [ARRAY]",
+    "ccjson.setValueByPos": "set [POS] in array [ARRAY] to [VALUE]",
+    "pen.GoPenLayer": "go to [OPTION] layer",
+    "pen.layerMenu.back": "back",
+    "pen.layerMenu.front": "front"
 }

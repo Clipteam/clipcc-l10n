@@ -284,5 +284,10 @@
     "pen.setPrintFontSize": "設置打印字體大小為 [SIZE]",
     "pen.setPrintFontUnderline": "設置打印下劃線狀態為 [BOOLEANMENU]",
     "gui.extension.clipcc.json.name": "JSON",
-    "gui.extension.clipcc.json.description": "用途多多的JSON擴展。"
+    "gui.extension.clipcc.json.description": "用途多多的JSON擴展。",
+    "ccjson.getLengthOfArray": "獲取數組 [ARRAY] 的長度",
+    "ccjson.setValueByPos": "設置數組 [ARRAY] 中第 [POS] 項為 [VALUE]",
+    "pen.GoPenLayer": "將畫筆層設置為 [OPTION]",
+    "pen.layerMenu.back": "底層",
+    "pen.layerMenu.front": "頂層"
 }

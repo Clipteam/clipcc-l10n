@@ -594,5 +594,11 @@
     "gui.menuBar.loginOrRegister": "Login or Register",
     "gui.menuBar.publish": "Publish",
     "gui.settingsModal.hqpen.label": "High-Quality Pen",
-    "gui.settingsModal.experimental": "Experimental"
+    "gui.settingsModal.experimental": "Experimental",
+    "gui.menuBar.modeMenu": "Mode",
+    "gui.menuBar.normalMode": "Normal mode",
+    "gui.menuBar.caturdayMode": "Caturday mode",
+    "gui.menuBar.1990sMode": "90s mode",
+    "gui.menuBar.oldTimeyMode": "Old timey mode",
+    "gui.menuBar.prehistoricMode": "Prehistoric mode"
 }

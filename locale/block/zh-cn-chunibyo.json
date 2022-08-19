@@ -314,5 +314,8 @@
     "CONTROL_SUSPEND": "冻住线程",
     "SENSING_JOYSTICKX": "咬杆 x 偏移",
     "SENSING_JOYSTICKY": "咬杆 y 偏移",
-    "SENSING_JOYSTICK_DISTANCE": "咬杆距离"
+    "SENSING_JOYSTICK_DISTANCE": "咬杆距离",
+    "SENSING_COLORAT": "给 (x: %1, y: %2) 一点颜色看看",
+    "COPY_TO_CLIPBOARD": "打包到马车上",
+    "PASTE_FROM_CLIPBOARD": "从马车上卸货"
 }

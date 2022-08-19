@@ -284,5 +284,10 @@
     "pen.setPrintFontSize": "设置打印字体大小为 [SIZE]",
     "pen.setPrintFontUnderline": "设置打印下划线状态为 [BOOLEANMENU]",
     "gui.extension.clipcc.json.name": "JASON",
-    "gui.extension.clipcc.json.description": "多才多艺的JASON神器。"
+    "gui.extension.clipcc.json.description": "多才多艺的JASON神器。",
+    "ccjson.getLengthOfArray": "量量数组 [ARRAY] 的体长",
+    "ccjson.setValueByPos": "把数组 [ARRAY] 中第 [POS] 个元素换成 [VALUE]",
+    "pen.GoPenLayer": "我在 [OPTION] 层",
+    "pen.layerMenu.back": "地下十八层",
+    "pen.layerMenu.front": "大气"
 }
