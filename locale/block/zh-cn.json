@@ -317,5 +317,6 @@
     "SENSING_JOYSTICK_DISTANCE": "摇杆距离",
     "SENSING_COLORAT": "获取在点 (x: %1, y: %2) 的值",
     "COPY_TO_CLIPBOARD": "复制到剪贴板",
-    "PASTE_FROM_CLIPBOARD": "从剪贴板粘贴"
+    "PASTE_FROM_CLIPBOARD": "从剪贴板粘贴",
+    "COPY_IMAGE": "复制积木图片"
 }

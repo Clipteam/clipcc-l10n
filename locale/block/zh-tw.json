@@ -317,5 +317,6 @@
     "SENSING_JOYSTICK_DISTANCE": "搖杆位置",
     "SENSING_COLORAT": "獲取在點 (x: %1, y:%2) 的顏色",
     "COPY_TO_CLIPBOARD": "複製到剪貼板",
-    "PASTE_FROM_CLIPBOARD": "從剪貼板粘貼"
+    "PASTE_FROM_CLIPBOARD": "從剪貼板粘貼",
+    "COPY_IMAGE": "給塊塊拍個照"
 }

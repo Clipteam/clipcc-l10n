@@ -317,5 +317,6 @@
     "SENSING_JOYSTICK_DISTANCE": "咬杆距离",
     "SENSING_COLORAT": "给 (x: %1, y: %2) 一点颜色看看",
     "COPY_TO_CLIPBOARD": "打包到马车上",
-    "PASTE_FROM_CLIPBOARD": "从马车上卸货"
+    "PASTE_FROM_CLIPBOARD": "从马车上卸货",
+    "COPY_IMAGE": "给块块拍个照"
 }
