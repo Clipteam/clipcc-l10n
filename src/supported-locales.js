@@ -22,9 +22,9 @@ const locales = {
     /*'es': {name: 'Español'},
     'es-419': {name: 'Español Latinoamericano'},
     'eu': {name: 'Euskara'},
-    'fa': {name: 'فارسی'},
+    'fa': {name: 'فارسی'}*/
     'fr': {name: 'Français'},
-    'ga': {name: 'Gaeilge'},
+    /*'ga': {name: 'Gaeilge'},
     'gd': {name: 'Gàidhlig'},
     'gl': {name: 'Galego'},
     'ko': {name: '한국어'},
