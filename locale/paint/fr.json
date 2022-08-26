@@ -41,5 +41,8 @@
     "paint.roundedRectMode.roundedRect": "Rectangle arrondi",
     "paint.selectMode.select": "Sélectionner",
     "paint.textMode.text": "Texte",
-    "paint.colorPicker.swap": "Inverser"
+    "paint.colorPicker.swap": "Inverser",
+    "Alpha": {
+        "paint.paintEditor.alpha": "Opacité"
+    }
 }

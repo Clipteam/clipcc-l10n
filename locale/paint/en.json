@@ -41,5 +41,8 @@
     "paint.roundedRectMode.roundedRect": "Rounded Rectangle",
     "paint.selectMode.select": "Select",
     "paint.textMode.text": "Text",
-    "paint.colorPicker.swap": "Swap"
+    "paint.colorPicker.swap": "Swap",
+    "Alpha": {
+        "paint.paintEditor.alpha": "Alpha"
+    }
 }

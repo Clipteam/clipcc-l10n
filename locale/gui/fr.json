@@ -590,7 +590,7 @@
     "gui.loader.blocks": "Chargement des blocs",
     "gui.settingsModal.saveExtension.label": "Sauvegarder l'extension dans le fichier du projet",
     "gui.settingsModal.saveOptionalExtension.label": "Sauvegarder l'extension optionnelle dans le fichier du projet",
-    "gui.settingsModal.hideNonoriginalBlocks.label": "Hide non-original Blocks",
+    "gui.settingsModal.hideNonoriginalBlocks.label": "Masquer les blocs non-originaux",
     "gui.menuBar.loginOrRegister": "Se connecter ou s'inscrire",
     "gui.menuBar.publish": "Publier",
     "gui.settingsModal.hqpen.label": "Stylo de haute qualité",

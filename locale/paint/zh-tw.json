@@ -41,5 +41,8 @@
     "paint.roundedRectMode.roundedRect": "圓角方形",
     "paint.selectMode.select": "選取",
     "paint.textMode.text": "文字",
-    "paint.colorPicker.swap": "交換"
+    "paint.colorPicker.swap": "交換",
+    "Alpha": {
+        "paint.paintEditor.alpha": "不透明度"
+    }
 }
