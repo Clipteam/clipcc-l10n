@@ -600,5 +600,6 @@
     "gui.menuBar.caturdayMode": "🍭",
     "gui.menuBar.1990sMode": "🎶",
     "gui.menuBar.oldTimeyMode": "⏰",
-    "gui.menuBar.prehistoricMode": "🦖"
+    "gui.menuBar.prehistoricMode": "🦖",
+    "gui.settingsModal.saveSettings.label": "拯救世界观到世界"
 }

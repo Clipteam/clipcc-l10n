@@ -563,7 +563,7 @@
     "gui.defaultProject.sparrow": "Sparrow",
     "gui.customProcedures.returnValue": "Renvoyer la valeur",
     "gui.customProcedures.globalFunction": "Fonction globale",
-    "gui.customProcedures.customReporter": "Custom reporter",
+    "gui.customProcedures.customReporter": "Sortie personnalisée",
     "gui.customProcedures.addInputNumberOrText": "Ajouter un nombre ou une entrée texte",
     "gui.customProcedures.addInputBoolean": "Ajouter une entrée booléenne",
     "gui.customProcedures.addLabel": "Ajouter un texte",
@@ -600,5 +600,6 @@
     "gui.menuBar.caturdayMode": "Mode Chamedi",
     "gui.menuBar.1990sMode": "Mode années 90",
     "gui.menuBar.oldTimeyMode": "Mode ancien",
-    "gui.menuBar.prehistoricMode": "Mode préhistorique"
+    "gui.menuBar.prehistoricMode": "Mode préhistorique",
+    "gui.settingsModal.saveSettings.label": "Save Settings to Project File"
 }

@@ -43,6 +43,6 @@
     "paint.textMode.text": "文本",
     "paint.colorPicker.swap": "交换",
     "Alpha": {
-        "paint.paintEditor.alpha": "Alpha"
+        "paint.paintEditor.alpha": "阿卡林力场强度"
     }
 }

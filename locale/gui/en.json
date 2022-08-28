@@ -600,5 +600,6 @@
     "gui.menuBar.caturdayMode": "Caturday mode",
     "gui.menuBar.1990sMode": "90s mode",
     "gui.menuBar.oldTimeyMode": "Old timey mode",
-    "gui.menuBar.prehistoricMode": "Prehistoric mode"
+    "gui.menuBar.prehistoricMode": "Prehistoric mode",
+    "gui.settingsModal.saveSettings.label": "Save Settings to Project File"
 }

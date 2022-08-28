@@ -600,5 +600,6 @@
     "gui.menuBar.caturdayMode": "🍭 星期六",
     "gui.menuBar.1990sMode": "🎶 相约 98",
     "gui.menuBar.oldTimeyMode": "⏰ 旧日时光",
-    "gui.menuBar.prehistoricMode": "🦖 史前文明"
+    "gui.menuBar.prehistoricMode": "🦖 史前文明",
+    "gui.settingsModal.saveSettings.label": "存储设置至作品文件"
 }
