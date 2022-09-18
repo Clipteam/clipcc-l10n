@@ -560,7 +560,7 @@
     "gui.settingsModal.autosave.off": "Désactivé",
     "gui.settingsModal.autosave.autosaveinterval": "Intervalle de sauvegarde automatique",
     "gui.settingsModal.autosave.unsupport": "Votre navigateur ne supporte pas la sauvegarde automatique :(",
-    "gui.defaultProject.sparrow": "Sparrow",
+    "gui.defaultProject.sparrow": "Cyanston",
     "gui.customProcedures.returnValue": "Renvoyer la valeur",
     "gui.customProcedures.globalFunction": "Fonction globale",
     "gui.customProcedures.customReporter": "Sortie personnalisée",
@@ -601,5 +601,9 @@
     "gui.menuBar.1990sMode": "Mode années 90",
     "gui.menuBar.oldTimeyMode": "Mode ancien",
     "gui.menuBar.prehistoricMode": "Mode préhistorique",
-    "gui.settingsModal.saveSettings.label": "Save Settings to Project File"
+    "gui.settingsModal.saveSettings.label": "Sauvegarder les paramètres dans le fichier du projet",
+    "gui.settingsModal.precompile.label": "Compile blocks eagerly",
+    "gui.settingsModal.warpTimer.label": "Force refresh when running compiled blocks",
+    "gui.settingsModal.waitCompiling.label": "Execute after compile finished",
+    "gui.settingsModal.compileWorker.label": "Compile worker"
 }

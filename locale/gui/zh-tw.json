@@ -560,7 +560,7 @@
     "gui.settingsModal.autosave.off": "關閉",
     "gui.settingsModal.autosave.autosaveinterval": "自動保存間隔時間",
     "gui.settingsModal.autosave.unsupport": "抱歉，你使用的的瀏覽器不支持自動存儲。",
-    "gui.defaultProject.sparrow": "小可愛（吉祥物）",
+    "gui.defaultProject.sparrow": "Cyanston",
     "gui.customProcedures.returnValue": "回調值",
     "gui.customProcedures.globalFunction": "全局函數",
     "gui.customProcedures.customReporter": "回調值",
@@ -601,5 +601,9 @@
     "gui.menuBar.1990sMode": "🎶 相約 98",
     "gui.menuBar.oldTimeyMode": "⏰ 舊日",
     "gui.menuBar.prehistoricMode": "🦖 史前時代",
-    "gui.settingsModal.saveSettings.label": "把設定保存到項目文件"
+    "gui.settingsModal.saveSettings.label": "把設定保存到項目文件",
+    "gui.settingsModal.precompile.label": "Compile blocks eagerly",
+    "gui.settingsModal.warpTimer.label": "Force refresh when running compiled blocks",
+    "gui.settingsModal.waitCompiling.label": "Execute after compile finished",
+    "gui.settingsModal.compileWorker.label": "Compile worker"
 }

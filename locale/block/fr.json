@@ -311,7 +311,7 @@
     "CATEGORY_FUNCTIONS": "Fonctions",
     "OBSOLETED_BLOCKS": "Blocs obsolètes ",
     "CONTROL_BREAKPOINT": "point d'arrêt",
-    "CONTROL_SUSPEND": "suspend thread",
+    "CONTROL_SUSPEND": "suspendre la boucle",
     "SENSING_JOYSTICKX": "axe x du joystick",
     "SENSING_JOYSTICKY": "axe y du joystick",
     "SENSING_JOYSTICK_DISTANCE": "distance du joystick",

@@ -541,7 +541,7 @@
     "gui.settingsModal.compatibility.delete": "撕票",
     "gui.settingsModal.compression.label": "变小咒强度",
     "gui.settingsModal.project": "世界",
-    "gui.settingsModal.compiler.label": "Star Platinum!",
+    "gui.settingsModal.compiler.label": "任命首相",
     "gui.settingsModal.indev.label": "本BUG仍在开发中，它可能会吞噬你的项目和一天的好心情。你无论如何都要打开它吗？",
     "gui.settingsModal.compiler.enabled": "准了",
     "gui.settingsModal.compiler.disabled": "不太好",
@@ -601,5 +601,9 @@
     "gui.menuBar.1990sMode": "🎶",
     "gui.menuBar.oldTimeyMode": "⏰",
     "gui.menuBar.prehistoricMode": "🦖",
-    "gui.settingsModal.saveSettings.label": "拯救世界观到世界"
+    "gui.settingsModal.saveSettings.label": "拯救世界观到世界",
+    "gui.settingsModal.precompile.label": "让首相饥渴的吞食积木",
+    "gui.settingsModal.warpTimer.label": "迪奥小面包",
+    "gui.settingsModal.waitCompiling.label": "让首相先急",
+    "gui.settingsModal.compileWorker.label": "替身数量"
 }

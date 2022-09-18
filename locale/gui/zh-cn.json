@@ -560,7 +560,7 @@
     "gui.settingsModal.autosave.off": "禁用",
     "gui.settingsModal.autosave.autosaveinterval": "自动保存间隔",
     "gui.settingsModal.autosave.unsupport": "你的浏览器不支持自动保存 😞",
-    "gui.defaultProject.sparrow": "小可爱",
+    "gui.defaultProject.sparrow": "青砚",
     "gui.customProcedures.returnValue": "返回值",
     "gui.customProcedures.globalFunction": "全局函数",
     "gui.customProcedures.customReporter": "返回值",
@@ -601,5 +601,9 @@
     "gui.menuBar.1990sMode": "🎶 相约 98",
     "gui.menuBar.oldTimeyMode": "⏰ 旧日时光",
     "gui.menuBar.prehistoricMode": "🦖 史前文明",
-    "gui.settingsModal.saveSettings.label": "存储设置至作品文件"
+    "gui.settingsModal.saveSettings.label": "存储设置至作品文件",
+    "gui.settingsModal.precompile.label": "预编译积木",
+    "gui.settingsModal.warpTimer.label": "运行编译后积木时强行刷新",
+    "gui.settingsModal.waitCompiling.label": "编译后运行",
+    "gui.settingsModal.compileWorker.label": "编译线程数"
 }

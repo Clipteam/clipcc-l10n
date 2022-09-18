@@ -601,5 +601,9 @@
     "gui.menuBar.1990sMode": "90s mode",
     "gui.menuBar.oldTimeyMode": "Old timey mode",
     "gui.menuBar.prehistoricMode": "Prehistoric mode",
-    "gui.settingsModal.saveSettings.label": "Save Settings to Project File"
+    "gui.settingsModal.saveSettings.label": "Save Settings to Project File",
+    "gui.settingsModal.precompile.label": "Compile blocks eagerly",
+    "gui.settingsModal.warpTimer.label": "Force refresh when running compiled blocks",
+    "gui.settingsModal.waitCompiling.label": "Execute after compile finished",
+    "gui.settingsModal.compileWorker.label": "Compile worker"
 }
